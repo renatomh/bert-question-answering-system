@@ -1,0 +1,237 @@
+What Are Data Silos and What Problems Do They Cause?
+
+DENIS KHALTURIN
+DECEMBER 29, 2022
+Data is your competitive advantage. It allows you to improve your processes, products, and operations to build a business that’s better than the competition. But data is also fragile, and without proper data governance, data integrity can be compromised.
+
+In this blog post, we’ll talk about one of the major reasons for data integrity issues: data silos. Let’s delve into what they are, why they exist, and how to break them down.
+
+
+Key Takeaways
+Data silos are data that an individual or department maintains that others in the organization cannot access.
+Growing organizations, poor data culture, and a lack of the right technology are the main causes of siloed data.
+Data silos are problematic because they limit business visibility, threaten data integrity, waste company resources, create a less collaborative environment, lead to poor customer experience, and compromise data security.
+Some common symptoms of siloed data are slow time-to-insight or frustrated employees due to the lack of business visibility.
+Breaking down data silos is a long and challenging process. You can make this smoother by using automation platforms, like an ETL pipeline that extracts data from different sources,  transforms it, and pushes it to a single source of truth (SSOT).
+What Are Data Silos?
+Think of data silos as islands of business data that belong to a department or even an individual—and cannot be accessed by others in the organization. This results in isolated information that eventually corrupts the organization’s data quality.
+
+Data silos are islands of business data that belong to a department or an individual and can't be accessed by others in the organization.
+Why Do Data Silos Exist?
+No one starts out planning to make data silos. But some organizations are more susceptible to them. 
+
+The organizational structure lends itself to siloed data
+Businesses often benefit from a separation of responsibilities. But departmentation can lead to the isolation of some data. With each department collecting its own data for its own purpose, they inadvertently create data silos.
+
+
+The business does not have a good data quality culture
+Organizations with an immature data culture are more likely to have data silo problems. These companies usually lack documentation and data governance, so there’s no shared understanding of collecting, managing, and storing data.
+
+This results in employees without proper guidance on sharing the data they collect.
+
+Establish a strong data culture in your organization
+FREE GUIDE
+Technology is curbing data quality efforts
+Technology can sometimes sabotage an organization’s efforts to maintain good-quality data. 
+
+When a business uses various software to run its operations, these different pieces of software may not be compatible with each other. This complicates data sharing.
+
+Alternatively, some organizations lack access to technology that prioritizes communication between different data sources, inevitably leading to data silo issues.
+
+
+Business growth weakens data management practices
+Business growth leads to the formation of new departments, new employees, new processes, and new software to support the expanding business.
+
+When data management is not a priority, all these recent changes leave individuals making things up as they go along—which almost always leads to data quality issues, particularly data silos.
+
+
+Common Examples of Data Silos
+Data doesn’t sit in silos by itself. It’s the actions we take that put data into silos. Here’s a review of the common use cases when organizations limit data accessibility (most often unintentionally). 
+
+Using spreadsheets in most business operations
+Spreadsheets are still the most popular tool to process, query, and democratize data in many companies. Even though they often become a pain in the neck for data teams.
+
+Non-technical specialists (e.g., marketers or financial officers) master spreadsheet formulas and do incredible things with a single VLOOKUP.
+
+Despite their ease of use, spreadsheets often become a graveyard for data. After making the required queries, data gets lost on someone’s cloud and doesn’t reach centralized storage.
+
+A spreadsheet also becomes a data silo when it moves from prototype to production. If some of your business logic revolves around spreadsheets, it’s a clear sign that you have to come up with something more practical. There are multiple reasons to avoid spreadsheets, ranging from data caps to an inability to include each spreadsheet in a data governance process.
+
+How to unsilo your data from spreadsheets: Start with reviewing gigantic spreadsheets that are fundamental for some of your business operations. They’re most likely inefficient due to their size and the numerous macros and formulas sitting on top of them. 
+
+Finding a way to transfer data to a more sustainable architecture, such as a cloud data warehouse, will improve the data accessibility and individual performance of each employee who interacts with the data.
+
+
+Poorly structured transformation queries
+When aggregating different types of data, such as financial, marketing, and sales data, to create a single source of truth, things get a little messy.
+
+First, different data has different naming conventions that have to be aligned to make sense. Plus, you have to create additional queries on top of previous ones to create ad-hoc reports on campaign performance, revenue growth, and so on.
+
+Eventually, you end up having a three-page long SQL query that makes sense only to its owner. Your transformation jobs might be so complex that a part of the required data simply doesn’t reach the data pipeline.
+
+The worst part is that analysts can spot the drastic decrease/increase in metrics, but they can’t understand the reason behind it because they can’t figure out how this data was queried.
+
+How to unsilo your data from complex queries: The issue can be approached in two different ways. 
+
+If your company performs transformations in-house, break up complex queries into multiple checkpoints and store them in tables for an intermediate data quality check. Clearly defined transformation steps and verification of data quality after each step ensure that none of the data slips away from the pipeline.
+
+Another option is to use automated transformation solutions for different types of data. For example, Improvado, an automated marketing data pipeline, transforms all data according to predefined recipes. You can choose any recipe and know exactly what your data will look like after the transformation process. 
+
+Improvado also allows you to create your own SQL-like transformation queries in a no-code, spreadsheet-like interface. You can clearly see the dependencies between different data entries and transform data in any way you need, without writing any SQL queries.
+
+Third-party solutions that keep your data hostage
+Today’s market is full of ETL solutions that can extract your data from any source, transform it into a digestible format, and display it in insightful dashboards. However, most of these solutions have a major drawback: vendor lock-in.
+
+Let’s take Datorama (Salesforce Marketing Cloud) as an example. It’s a comprehensive solution for large companies that automates marketing reporting and streamlines data from hundreds of sources. From the first glance, it’s each marketer’s dream. It features ad-hoc reports on data from all popular ad platforms. 
+
+Things get complicated if viewed from a data silos angle. You can’t load data from Datorama to your in-house storage or merge this data with third-party insights gathered on your side. In other words, you become pretty locked in with data available only in Datorama, and you can’t share useful insights outside of the platform as well.
+
+This vendor lock-in makes you dependent on the vendor and vulnerable to any changes in pricing policy. If you don’t agree with pricing changes, you can’t simply give up on the platform, because you lose all of the historical data you’ve accumulated. That’s why you have to think twice before entrusting your data to such platforms.
+
+How to save your data from being trapped: If you decide to go with a third-party platform, choose a vendor that gives you full access to your data. 
+
+Yet again, let’s take a look at Improvado. It offers you different ways to store your data. It can be loaded either to your cloud data warehouse, such as Google Big Query, or you can query your data from Improvado’s environment. If you don’t have your own data warehouse or expertise to manage one, Improvado offers data warehouse management services.
+
+This way, you know that your data will stay with you under any circumstances and you can make it fully accessible to any employee in your company.
+
+With Improvado, your data is secure, harmonized, and ready for analysis
+BOOK A CONSULTATION
+Why Are Data Silos Problematic?
+Data silos are a very common problem with far-reaching organizational and business implications.
+
+Data silos limit business visibility, undermine data integrity, and led to other problems within an organization.
+Limit business visibility
+When relevant business data can’t be connected to a central database, the insights that decision-makers arrive at will not reflect the true state of business operations. This may contribute to business decisions that do more harm than good.
+
+Also, when analysts need data that is not easily accessible, it will take them a lot of time to find it from different places. This reduces time-to-insights, the average time it takes to derive actionable insights, and slows down business agility.
+
+Some insights can completely slip away from analytics without data exchange between departments. 
+
+For example, how will you attribute leads to revenue and identify the best-performing channels without sales and marketing alignment? Or, how will you know your customers' LTV without information from the customer success team? 
+
+Undermine data integrity
+Data silos result in incomplete business data, which jeopardizes data integrity.
+
+This can lead to poor business decisions at the very least or big disasters at the worst—as NASA learned after they lost the Mars Climate Orbiter because two departments failed to communicate that they were using different units of measurement.
+
+Even if you’re not working in the aerospace industry, you’re still vulnerable to biases caused by data silos. Imagine a marketing department that tries to optimize campaigns for revenue without relevant sales data. The whole optimization becomes solely guesswork. 
+
+
+Waste business resources
+Data storage costs can be prohibitively expensive. Because many data silos store similar or outdated data, your organization is allocating budgetary resources to data storage that no longer serves the organization.
+
+Down the line, business decisions based on this data may even hurt business revenue. For example, if you have inaccurate data during a product launch, your email service provider (EMS) might send the wrong email to customers. Or to the wrong segment, or on the wrong day. This not only destroys customer trust but also affects ROI.
+
+Reduce employee collaboration
+Data that is not freely shared can create conflict between employees and departments.
+
+Let's say you want to know if the new messaging resonates and gets across to leads. For this, you need to assess the lead quality and verify the leads to sales conversion rate.
+
+What if it takes a long time to get this data from sales, if at all, slowing down your processes? This potentially kick-starts terrible feelings between you and your contact point in the sales department.
+
+Similarly, a lack of data transparency hinders collaboration between different departments. They become their own little islands where good ideas die because collaboration and cooperation are not encouraged.
+
+
+Amplify poor customer experience
+Every time customers engage with a business, there's a piece of software that can record that interaction.
+
+Now imagine if there were no way to connect the data between these different tools. A lot of the data would get siloed, and you would have a terrible time figuring out which part of the customer journey to optimize and how you could personalize every customer engagement.
+
+This would further lead to a disjointed customer experience that would push them away from your brand.
+
+Compromise data security
+When data is stored in someone's digital folder, which is inaccessible by a centralized data security network, it becomes difficult for organizations to put security measures into these archives. You will have no control over user permissions, which increases the threat of data breaches.
+
+
+How Do You Know You Have Data Silo Problems?
+Data silo problems often manifest themselves in day-to-day business operations. They affect everyone at all levels, from decision-makers to frontline employees.
+
+Top executives will take a long time to get the information they need to make decisions. They won’t know which levers to pull to achieve business goals. This lack of visibility on industry trends means they’re often slow to respond to changing customer needs.
+
+A lack of sales and marketing alignment can also be a symptom of data silo problems. When individuals feel like they’re not given access to relevant data to perform their job, it’s convenient to point fingers at other employees who are “withholding” the information. This often leads to unhealthy competition and a toxic work environment, not to mention poor performance and revenue loss.
+
+
+How to Break Down Data Silos
+Breaking down data silos can be one of the most challenging tasks there is for businesses. They’re so ingrained in the company culture that they’re tough to eliminate. Breaking them down has to be a top-down initiative and a company-wide education program.
+
+
+Accept they exist
+Data silos can happen to any organization. The quicker your company accepts this, the sooner you'll take the steps necessary to eliminate them.
+
+Figure out how decisions are made in your organization
+The primary goal of data in any organization is to make better decisions. So, to understand the data flow inside your company, you first need to clearly define the decision-making process.
+
+Chris Ortega, CEO of Fresh FP&A and a noticeable finance influencer, suggests using a framework called the Decision Cycle. According to this framework, the decision cycle breaks decisions down into five core pillars: 
+
+Processes
+Data
+Information
+Knowledge
+Business decisions
+These pillars are interlinked with each other. In other words, processes drive data. Data is then turned into information. In turn, that information becomes knowledge that influences all business decisions. 
+
+When you realize how decisions are made inside your organization, you can then identify data silos across departments and find the right technologies to automate the process of converting data to knowledge and reduce friction in the decision-making process.
+
+
+Identify the data silos in your organization
+Identify the root cause of your data silo problems. Is it the company culture? The technology? The processes? Then make a plan to consolidate, replace, or manage them.
+
+If you have siloed data inside the organization, your departments are probably functioning as separate business units. That means you need to identify any siloed data inside of each department. 
+
+Here are some signs that indicate you’re on the right track:
+
+A department often complains about a lack of data for particular business activities.
+There is insufficient data to understand the department’s influence on the company’s business processes (imagine a single puzzle piece missing in the holistic picture of your company’s efforts).
+There is uncertainty about the success metrics of a particular department.
+There is an inability to quickly access the department's data.
+Also, contact your IT team to get a list of the systems used by each department to better understand where the data goes missing. 
+
+Identify the data needs of the different departments and individuals
+List the different teams who need data and figure out what they need and why they need it. Then identify which other departments already record that data and how they're recording it.
+
+
+Integrate all data and applications
+Figure out a way to get different business applications to communicate with each other. Can you combine some applications? Is there any software that makes sharing data difficult? Can you replace any of the tools you’re currently using?
+
+Once you figure this out, build one source of truth for all the data your organization collects. Leverage flexible and scalable tools, like an ETL platform that helps break down data silos, transforms the data into one format, and loads the unified data to a data warehouse.
+
+ETL is a process of extracting and transforming data from one or multiple sources and loading it into a designated destination.
+Add business context to your data
+Data itself is a very technical concept. There are tables, joins, unions, and a lot more technical jargon. But when it comes to business processes, your data must have a business context. 
+
+Imagine a database table named “cost-flowchart-1.XML”. It doesn’t sound like something of great value to a non-technical person. But when everyone knows that this table is a cost center hierarchy or a chart of leads attracted during the quarter, it gets a certain meaning.
+
+Unsiloed data is a company-wide asset, not just a set of numbers for data engineers. So, it should be easy to read for anyone interacting with it. 
+
+As Jagdish Sahasrabudhe, SVP of Business Applications and Platform at SAP, said in his recent talk: “Only when you have context and semantics assigned to data, that’s what brings that data closer to a business process. Without that, it’s just a bunch of bits and bytes.”
+
+
+Develop a strategy for unsiloed data
+Making your data accessible is great by default. But, on a grander scale, you need to ask yourself a question: “Why does my company need it?”
+
+It might be a jumpstart toward innovation, as well as an initiative that failed to deliver any results. And the only difference between these outcomes is the strategy.
+
+You might consider finding a partner to fill in the experience and strategy gaps when it comes to using your data to drive innovation. Instead of shouldering this responsibility on you or your colleagues, why not delegate it to a team that has helped multiple companies across different industries?
+
+Through the Professional Services framework, Improvado goes from vendor to partner and helps client teams build insightful dashboards and make informed decisions based on available data. It’s important to have guidance and expertise on your side early on in the process to have a clear strategy of what to do with your new data.
+
+Develop and mobilize your data quality program
+Data quality is often viewed as an IT problem, but, in reality, it’s a shared responsibility. Encourage data ownership, so everyone is responsible for creating and storing good-quality data. To ensure the success of your data governance program, make it clear and easy to understand for everyone in the company. 
+
+Lastly, make data transparency a valuable aspect of the business. Stop the culture of competition between departments and emphasize the importance of collaboration toward business growth.
+
+
+Manage your new data culture
+Getting a new data quality system off the ground can take time. Some employees might go back to old practices or get confused about what they should do.
+
+Prepare for these drawbacks. Be flexible in how you manage data going forward while the team is getting used to your new approach to data management.
+
+
+Your Turn
+Breaking down data silos should be part of a complete data management program. When you have regulations in place for exactly how your organization collects, manages, and stores data, data silos are less likely to happen.
+
+Get an integrated view of all data across your marketing organization
+EXPLORE
+
+Denis Khalturin
+Data Analyst at Improvado

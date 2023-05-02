@@ -1,0 +1,164 @@
+6 Multichannel Advertising Strategies and PPC Trends to Consider for 2023
+
+JACQUES VAN DER WILT
+DECEMBER 27, 2022
+In 2022, worldwide retail eCommerce sales are expected to reach approximately 5.7 trillion USD. This figure is expected to grow again by 10% over the next year, reaching approximately 6.3 trillion USD by the end of 2023.
+
+Heading into 2023, it's important to be aware of how the eCommerce industry has performed over the past year, what PPC trends we should be following and what upcoming marketing changes we can expect.
+
+Multi-channel advertising is already quite widespread among online retailers. However, we can always improve it as long as we know what is happening in the industry. It’s crucial that we optimize our advertising campaigns based on solid knowledge and real data.
+
+Based on eCommerce market research and data from Feed Marketing Report 2022, we’re bringing to you 6 important advertising trends for 2023.
+
+Step into 2023 with a solid marketing analytics partner
+EXPLORE
+1. Global Economic Uncertainty Forces Optimization of Advertising Budget Distribution Across All Channels
+The leading quantitative companies have already made their forecasts for 2023. There are a few factors that are forcing global economic uncertainty and creating certain marketing and PPC trends. 
+
+The lasting effects of product shortages related to the COVID-19 pandemic, the ongoing energy crisis in the EU, rising interest rates and the war between Russia and Ukraine are just some of the global problems affecting online advertising all over the world across all platforms. 
+
+Some countries are certainly struggling more than others. Below, we present which countries had the biggest problems with product shortages in 2022:
+
+Availability of products advertised, split by country
+Feed Marketing Report 2022: Availability of products advertised, split by country
+For online sellers, global economic uncertainty means lower marketing and advertising budgets, stricter requirements for better results and higher targets for return on ad spend. In order to get expected results with PPC marketing, you need to implement some optimizations to their advertising strategies. You can do this by incorporating new learnings from the latest advertising trends.
+
+Refining keyword strategies
+In 2023, it’s recommended to conduct routine PPC campaign audits to ensure you are not missing out on key optimization opportunities. These audits will allow already implemented keyword strategies to be refined by:
+
+Removing low-intent,
+Removing low-quality keywords,
+Better targeting relevant keywords.
+Landing page optimization 
+Online sellers should also make an audit of their landing pages. Once you are aware of the areas that can be improved, you should implement some optimizations to enhance user experience. You can also try creating unique landing pages for individual campaigns. Combining landing pages optimization with other proven marketing strategies (such as bidding optimization, remarketing etc.), it becomes possible to build a sustainable process that brings high-quality leads.
+
+Filtering unprofitable products out of eCommerce campaigns 
+Filtering unprofitable products from PPC campaigns is a great way to optimize advertising budget and protect ROI. Statistics show that 64.74% of online marketers exclude certain products from their ads. That’s because sending paid traffic to all products within an online store can potentially be unprofitable.
+
+The biggest factor driving online sellers to implement a product exclusion strategy is the price. In almost all cases, this is because the price falls below a certain threshold. 90.92% of these marketers choose to remove items below a specified price point. The other 9% cut products exceeding the upper price limit defined by the marketer.  
+
+Price is the top product attribute used to filter products out of data feeds.
+Feed Marketing Report 2022
+The other relevant factor for the exclusion of products from eCommerce campaigns is the title. By using this attribute, marketers are filtering out entire collections or specific product types. 15.77% of online stores have used this title exclusion strategy according to Feed Marketing Report 2022. 
+
+Excluding products based on availability or images is also quite popular and used when stores lack relevant data or have incorrect data or low stock levels.
+
+
+Merging product variations 
+If online marketers have a lower advertising budget than usual or even the same advertising budget to allocate to fewer products, the solution may be to merge product variations. Of course, this is only recommended for some advertising channels. On the others, it may have the opposite result. 
+
+It’s advisable to consider merging items in the product feed when advertising based on interest, for example on Facebook, or on other channels if online users in your category typically make very generic product searches.
+
+For platforms such as Facebook where sellers advertise based on user interest, it’s usually recommended to merge size variations together to avoid showing potential customers several copies of the product with the same image.
+
+
+2. Differentiation of Advertised Product Set Between Channels Is a Popular Practice
+Each advertising platform has a bit different target audience with a different purchase intent. It's not always a good idea to use the same set of products across all sales channels. 
+
+Some channels, like Google, are search-based platforms where users actively search for products in a particular size, color or brand. On other channels, such as Facebook, Instagram or TikTok, the primary intention is not to buy products. For these two types of advertising channels, a different set of products needs to be created and featured. 
+
+
+Example of ads on different advertising platforms
+Visually appealing products such as hand-made jewelry or bags can inspire users of social media platforms but people don’t usually look for such products in search engines. High-complexity products such as electronics, on the other hand, are a perfect match with Google, and consequently Paid Search, where people search for a very specific product.
+
+DataFeedWatch research showed that in 2022, 55.84% of online retailers who advertised on both Google and Facebook had a different number of products included in Google Shopping feed and Facebook feed. This can only mean that advertisers are taking different factors into account when reviewing the product set for each. 
+
+When stepping into 2023 and deciding on product set for each sales channel, marketers should consider:
+
+The advertising goal,
+Audience intent,
+The visual build of the ad.
+This way it’s possible to adjust the feed attributes such as images or titles and the sets of products successfully. 
+
+
+3. Advertisers Are Figuring out the Ways to Speed up Multichannel Expansion
+Multichannel expansion is one of the most common advertising strategies examples. This will be an ongoing PPC digital marketing trend in 2023. 
+
+CASE STUDY
+Learn how Improvado helped ASUS take full control of their global marketing reporting
+EXPLORE
+Online stores can save lots of time when going multichannel thanks to unified data requirements across different eCommerce channels. 
+
+Sellers can significantly simplify integrating new advertising platforms by taking advantage of their Google Shopping feed to expand to channels with similar feed requirements like Snapchat, TikTok, Facebook Product Ads and more.
+
+Another way to multiplying multichannel revenue streams is to start sell in other countries. 70% of online retailers advertising on more than one channel target a single country, while the remaining 30% expand their presence to other countries. This may lead to an assumption that starting to sell across borders is difficult. The truth is that there is a way to make this process quick and easy. 
+
+To speed up the multichannel expansion into other countries, online retailers can decide to use English product ads on foreign markets. In general, English product ads represent 13 to 26% of all ads displayed in a given country, which makes it the most common second language used to promote products in countries where there's a different primary language. 
+
+The leading countries in terms of use of English product ads are Belgium, France, the whole DACH region and Italy. On average, online sellers in these countries submit over 20% of their product feeds in English (instead of their primary language).
+
+In Austria, for example, 25.53% of all product feeds are submitted in English. 
+
+English is the second most used language in product feeds in Austria.
+Feed Marketing Report 2022: Stats on data feeds in different languages in Austria
+In Switzerland, 26.15% of all product feeds are submitted in English. 
+
+ English is the second most used language in ads in Switzerland.
+Feed Marketing Report 2022: Stats on data feeds in different languages in Switzerland
+This strategy can make it significantly faster to enter foreign markets, but it’s not without cons. It may be associated with limited visibility potential and likely lower conversion rates compared to ads for the same products displayed in the local language.
+
+
+4. Many Marketers Combine Search with Social to Increase Sales
+Ecommerce is a highly competitive industry at the turn of 2022/2023, and businesses need to constantly evolve and look for new sales channels and other growth opportunities. It's no news that online retailers with a multi-channel sales approach can meet the industry's growth demands, reaching many new potential customers, building multiple revenue streams and significantly increasing sales.
+
+Among the most commonly chosen eCommerce ad platforms, Google Shopping and Facebook Products Ads claimed very high spots.
+
+Facebook is the undisputed winner among social media platforms. In the top 10, you can also find Pinterest in the 6th position. Besides Amazon, eBay is the strongest among marketplaces (9th position).
+
+The top 10 eCommerce ad platforms include Google Shopping, Facebook Product Ads, etc.
+Feed Marketing Report 2022: The top 10 eCommerce ad platforms
+An interesting phenomenon that we can see in these statistics is Custom Channels in 2nd position. Their popularity suggests that, in addition to standard advertising channels, online retailers are seeking additional growth opportunities such as niche channels or feed-driven product recommendation engines.
+
+In general, 92% of online advertisers choose Search to promote their products. It’s no surprise as search users usually are actively looking to make a purchase.
+
+Social media users have typically a bit lower purchase intent, but still, 54% of sellers choose to integrate social channels into their PPC strategy. This makes these platforms an important revenue stream as well. 
+
+Search has the highest percentage of advertisers compared to other channels.
+Feed Marketing Report 2022: Percentage of advertisers by channel
+In fact, search and social channels complement each other. This explains why over 44% of online sellers promote their ads on both Google and Facebook.
+
+Google boosts end-of-the-funnel conversions.
+Facebook grows brand awareness as well as generates impulse-based sales.
+5. Artificial Intelligence And Automation Are the Future of PPC
+PPC automation is the key PPC trend for 2023. Google is continuously improving automated bidding strategies for PPC advertising and encouraging advertisers to let automation drive their campaigns. Especially if they promote their product on many different channels at the same time, as it can save them a lot of work.
+
+PPC automation uses AI and machine learning to take care of ad campaigns by tracking, optimizing bids, testing and more. The whole work process can be automated and this gives marketers more time to focus on other relevant tasks. 
+
+The year 2023 might be interesting for the digital PPC marketing world, as more first-party and third-party automation and evaluation systems will appear on the market. Advertisers will get to choose among more automation processes than just those offered by big-name companies. The real challenge will be to figure out how to use these automated PPC strategies as effectively and as possible.
+
+By 2030, artificial intelligence is expected to have a huge impact on the advertising world. By implementing AI into our PPC campaign, we can very accurately target specific audiences, forecast future ad CTR, identify the bids that will get the highest traffic, and analyze the likelihood of a customer converting. We can build our automation processes to perfectly match our audience and paid advertising goals.
+
+In 2023 and beyond, automating tasks using AI and machine learning will help businesses stay competitive. If online sellers can find a good balance between automation and self-management of their PPC strategy, they will need less time to adjust bids and have more time to focus on the overall performance of their PPC campaign.
+
+Smart bidding, a machine learning-driven automated bidding system, is undergoing a major evolution. Next year, smart bidding will only become more effective and strategies that employ it will become more widespread. In fact, we're seeing a trend where fewer and fewer advertisers are using manual bidding. This is not surprising, as it allows online sellers to fully focus on areas such as analytics and strategy.
+
+
+6. Omnichannel Is the Next Step for Multichannel Strategies 
+Consumers use digital media for different purposes. Some search for products, read articles or go on social media, while others use gaming apps. They each do it in their own way, but there are always some intersections and connections in these uses.
+
+In business, it’s important to track potential customers’ journey and identify if certain leads are likely to convert. When marketers limit interactions with customers to a single channel, they lose much important information. Also, if they use multiple channels at the same time and follow customers' journey on each of them but separately, the continuity of information is lost. These many samples of information are of no use. 
+
+The trend for 2023 is for advertisers to move from a multichannel marketing strategy to an omnichannel marketing strategy.
+
+FREE GUIDE
+Learn to build, analyze, and optimize omnichannel marketing campaigns
+DOWNLOAD
+What distinguishes an omnichannel strategy is the ability to track all customer interactions and behaviors across channels without losing context. It allows you to understand their intentions and to create a whole brand story. 
+
+By implementing an omnichannel strategy into their PPC campaigns, retailers can give their potential customers a strong sense of the brand identity across different sales channels.
+
+Online marketers can choose among many various help desk software solutions that can consolidate multiple channels’ activities in one dashboard and make it possible to introduce this strategy of the future. 
+
+
+Summary
+You can never be 100% sure that you will be successful with online advertising. But by following current PPC trends, you're taking a step in the right direction.
+
+The important thing is to experiment and try out certain tactics to evaluate your company's impact. Remember to keep a close eye on the results and adjust your strategy when necessary. The eCommerce market is evolving extremely fast and it’s crucial to keep up with industry changes.
+
+
+Jacques van der Wilt
+Founder & General Manager Feed Marketing of DataFeedWatch
+
+W
+
+Jacques van der Wilt is an entrepreneur and a leader in the feed marketing industry. He founded DataFeedWatch (acquired by Cart.com), one of the largest feed management companies in the world, that helps online merchants optimize their product listings on more than 2000 shopping channels in over 60 countries. Prior to that, Jacques has held leadership positions in both the US and Europe. He is also a seasoned guest speaker at industry events and mentor at Startup Bootcamp.

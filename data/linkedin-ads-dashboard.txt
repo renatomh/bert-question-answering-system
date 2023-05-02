@@ -1,0 +1,164 @@
+Getting into LinkedIn Ads Dashboards & Reporting
+
+DANIEL MIRONOV
+FEBRUARY 22, 2023
+Tired of lackluster LinkedIn performance? With so many businesses and personal brands vying for attention on the platform, it’s no wonder so many marketers find themselves at a loss as to how to break through the noise. But it is possible.
+
+Marketing success on LinkedIn comes to those willing to scrutinize and analyze their marketing performance. Data analysis tells you if you’ve reached the right audience, if your message resonates, and if you’ve inspired the intended action—all data that are useful for other parts of your business as well.
+
+Of course, this analysis is only as effective as your data collection method. Thanks to modern technology, that data collection is easier than ever before with the advent of LinkedIn Ads dashboards.
+
+These tools are your greatest ally, which is why we’ve created this intensive guide. 
+
+
+What Is a LinkedIn Ads Dashboard?
+LinkedIn Ads dashboard helps track campaign analytics data.
+An example of LinkedIn Ads dashboard
+A LinkedIn Ads dashboard is a third-party advertising analytics tool that pulls information from your LinkedIn Ads account to track campaign analytics data from the platform. You can also pull data from other social platforms directly into the same dashboard. 
+
+Think of LinkedIn Ads dashboards as the hotline for the results of your social media campaigns. The dashboard offers a high-level overview of your campaign performance, displaying every tracked metric and KPI from your paid social campaigns. This delivers insights into your audience engagement, conversions, and the general ROI of your ad spend (among many other metrics).
+
+12 best marketing dashboard templates to uncover actionable insights
+EXPLORE
+Benefits of a LinkedIn Dashboard
+Building a unified dashboard for your LinkedIn marketing efforts is a no-brainer. Let’s break down the four primary benefits of a LinkedIn Dashboard.
+
+1. A Single Source of Reference
+LinkedIn ad analytics shouldn’t be a scavenger hunt—you want all of your data in one place so you can make quick, data-backed decisions. With dashboards, you no longer need to navigate between separate analytic profiles and spreadsheets. 
+
+Every bit of data you need to look at is housed in the dashboard. Consider the finite details of individual campaigns one second and assess how it fits into the larger marketing picture the next.
+
+
+2. Full Transparency
+The transparency benefit here is two-fold: data transparency and communication transparency between teams.
+
+The first is obvious—when all of your advertising data is on a single dashboard, you gain a clear understanding of how your advertising efforts perform. 
+
+Meanwhile, teams can achieve greater transparency in their communications through permission and sharing settings on your dashboard. Giving all applicable personnel access to your data metrics ensures your team remains aligned with your social media goals.
+
+3. Data Integration
+You don’t have to dedicate your dashboard to LinkedIn-exclusive data. If you’re promoting your product and services on other platforms, your dashboard can house that additional data so you gain a greater glimpse into the reality of your ad performance across the web.
+
+
+4. Complete Customization
+Perhaps the greatest benefit of a LinkedIn reporting dashboard is its ability to customize every tracked metric according to your needs. You won’t need to sift through data sets and performance indicators you don’t care about. 
+
+
+What Metrics Should You Include in a LinkedIn Ads Dashboard?
+With so many metrics you could track, it’s easy to get lost in the proverbial weeds of analytics. So which metrics should you focus on in your LinkedIn Ads dashboard? 
+
+Ad Clicks
+Ad clicks are the total number of clicks on your ads. This includes clicks on parts of the ad that send users to your website or other intended destinations. It does not track engagement metrics, including likes, comments, or shares.
+
+
+Ad Impressions
+Ad impressions are the total number of people who saw your ad. Impressions give you a good sense of how prevalent your ads are in the public sphere, but don’t offer a good indication of engagement on their own.
+
+Ad Spend
+Ad spend is the total amount of money you’ve spent on promoting your ads and posts on LinkedIn and other platforms. This metric is usually updated in real-time, so you have a complete understanding of how much budget you have left in a month.
+
+
+Campaign Engagement
+Campaign engagement is the combined total of likes, comments, shares, and other engagement metrics on the LinkedIn posts associated with your campaign. You may segment these metrics by individual posts or lump specific posts into more refined categories. 
+
+CTR
+How many people navigated to your website because they saw your ad? Your click-thru-rate (CTR) answers this question. CTR is usually presented as a percentage of people who clicked on your ad vs the total number of impressions. 
+
+
+CPM
+Cost per thousand (CPM) is the amount you pay for every thousand impressions. This is usually a set fee established by the platform you’re advertising on. Referring to this number frequently can help determine whether your ROI is acceptable. 
+
+Total Conversions
+Total conversions is the total number of individuals who converted on your website during the duration of your campaign.
+
+
+Conversion Rate
+The conversion rate is the percentage of clicks that resulted in a conversion. This divides the total conversions by the total clicks on your ad. You can set the conversion to be whatever best fits your campaign, whether that be a PDF download, a purchase, or signing up for your email list.
+
+ROAS
+Return on ad spend (ROAS) calculates the percentage of revenue generated for every dollar spent on advertising. This divides the revenue generated from conversions by the total dollar amount spent on advertising. 
+
+
+CPC
+Similar to ROAS, cost per conversion (CPC) calculates the average amount of money you spent on each conversion. This takes into account the total number of conversions compared to the total ad spend, rather than looking at the revenue generated from conversions.
+
+This may seem like a lot to track. But we promise it’s worth it—the more data you have at your disposal, the clearer the picture you can paint of your campaign’s efficacy.
+
+
+What Type of Visualizations Work Best for a LinkedIn Ads Dashboard?
+Your LinkedIn Ad dashboard will also carry with it a variety of data visualization options, though some are more applicable in certain scenarios than others. These charts and maps aren’t just to make your data look pretty—they help communicate the story your data tells in your marketing reports. 
+
+Here are some of the most common types of visualizations (and when they’re most appropriate to use).
+
+Bar Charts
+Bar charts are best for comparing multiple values side by side. You may find this useful for comparing the performance of two different campaigns. Or, you might use them to determine which days of the week your ads performed the best.
+
+Stacked bar charts also reveal how variables contribute to a specific cause. Say you want to know which social posts contributed the most conversions. A stacked bar graph would showcase your total conversions and clearly illustrate which ad performed the best.
+
+Bar charts are best for comparing one or many categories of data.
+Line Charts
+When you wish to track a metric over time, line charts are your best friend. This visualization tool plots out all your data points across time, making it easy to spot time-based trends and dynamics. You may notice your engagement peaks on a certain day or drops at other times.
+
+Alternatively, you may stack two or more line charts on top of each other to compare a month-to-month metric between two separate years. This format also allows for area charts, which highlight the difference between two line charts.
+
+Line charts are best suited for showcasing a trend in data over a period of time.
+Summary Charts
+Summary charts are simple displays of a single numeric value. This can be any value you want to take at face value, such as monthly ad spend or current click-through rates. While summary charts don’t offer a lot in the way of comparative analysis, they provide a quick snapshot of your campaign analytics.
+
+Summary charts are best suited for displaying a single numeric value.
+Pie Charts
+Pie charts offer similar value as stacked bar charts, illustrating how individual pieces of a campaign contribute toward the total value. If you wanted to know how many clicks your ads generated, a pie chart would also show you how those clicks were distributed across all of your posts. This might inform future decisions about which type of posts should be prioritized to garner the largest amount of clicks.
+
+Pie charts are best suited for visualizing the relationship between parts and the whole variable.
+Geo Maps
+Geo maps show you where your audience is. If you only serve a single country, this map may not be of much value. But if your service reaches across international borders, a geo map will show you which areas interact with your content the most. 
+
+This may inspire you to double down and customize your messaging around those high-performing regions. Or you may want to try to service the regions that aren’t interacting with your posts as much to expand your reach.
+
+Geo maps are best suited for visualizing metrics tied to a specific region.
+LinkedIn Ads Dashboard Best Practices
+Now for the most important question: How do you use these metrics to optimize your LinkedIn Ads dashboard? Here are four best practices to inform your strategy.
+
+
+1. Pick the Right Metrics
+The list we’ve curated above is a great starting point for picking the right metrics on your LinkedIn Ads dashboard. We don’t recommend removing any of these metrics, but there are other KPIs you might consider adding. 
+
+For example, many companies like to look at valid/viewable impressions (50% of the post’s pixels are visible for at least two continuous seconds) to gain a greater understanding of their reach.
+
+Also, choose to focus on specific metrics that complement the type of campaign you’re running. If it’s an awareness campaign, for example, impressions and clicks may be the most useful metrics. But if you’re aiming for sales, look at total conversions and conversion rates. 
+
+2. Automate Data Syncs
+Your dashboard is only as useful as the data it carries. If you forget to sync your dashboard with your platforms, your team may make the wrong decisions because they can’t see the full picture. 
+
+Fortunately, you don’t have to remember to sync your data—it can be done automatically. Make sure you set up automatic data syncs between your LinkedIn Ad dashboard and all relevant platforms so you only work with the most up-to-date information.
+
+
+3. Use Data to Make Decisions
+The best decisions are made with accurate data. It’s not enough to rely on a hunch. Focus on the story the data tells you—What type of posts do people resonate with? Where is your audience falling out of your sales funnel? 
+
+Use this data to inform all of your LinkedIn marketing decisions. When choosing to promote a post on LinkedIn with PPC (pay-per-click), check your data to see which ads and posts already receive a lot of attention. If people aren’t engaging with a post, a paid promotion won’t convince them otherwise.
+
+4. Link Results to Ad Spend
+Marketing revolves around a budget. Make your monthly ad spend a central discussion in your marketing endeavors. Do you see more success when you spend more on marketing? 
+
+You may run an analysis comparing monthly ad spend to monthly conversions. If there’s a strong, positive correlation, it could be worth doubling down on your budget. 
+
+Unlock 10x ROAS potential with our Marketing Data Centralization Guide
+Drive Higher ROAS with an Improvado-Built LinkedIn Ads Dashboard
+Reporting gets delayed when you can’t find the data you need. With the proper data tracking, visualization methods, and best practices in line, your LinkedIn Ads dashboard will become your go-to tool for all marketing decisions. 
+
+To ensure your marketing efforts stay aligned and on course with your overarching business goals, partner up with an advanced marketing solution like Improvado.
+
+Improvado’s ETL (extract, transform, load) allows businesses to:
+
+Automatically pull data from multiple sources. Want to coordinate your LinkedIn data with your organic search efforts or email marketing strategy? Improvado offers integrations with Google Analytics 4(GA4) and Mailchimp, along with almost any other platform you wish to integrate with.
+Transform your data into easy-to-consume numbers. Improvado roots out duplicate data entries, unifies disparate naming conventions across platforms, and maps data to make marketing decisions easier. But we don’t leave any data on the cutting room floor—we believe in the power of data granularity. To keep you from getting lost in the sea of information, check out our Data Dictionary to better understand the types of data we pull into your dashboard.
+Deliver analysis-ready data. Improvado categorizes and streamlines data analysis to increase productivity and decrease error risk so you can turn your data into actionable insights.
+Ready to integrate? Get in touch with an Improvado data expert today to book a 30-minute consultation. We’ll guide you through the ways your new dashboard will transform your LinkedIn strategy.
+
+Build a highly customizable LinkedIn Ads dashboard with Improvado
+Enter work email
+
+Daniel Mironov
+Performance Marketer at Improvado
+Daniel Mironov is a Performance Marketer at Improvado. With a background of user acquisition for global brands and agencies, Daniel is a perfect source of information and insights about current trends in performance marketing.

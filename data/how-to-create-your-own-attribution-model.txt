@@ -1,0 +1,246 @@
+How to Build a Custom Marketing Attribution Model [Guide]
+
+DENIS KHALTURIN
+MAY 2, 2023
+Allocating a marketing budget efficiently is problematic without knowing the contribution of each channel to the revenue generated and your overall conversions. Analytics and marketing tools credit their own platform for the conversion, failing to detect the efficiency of other marketing channels.
+
+Let's think of a conversion process in which a user first interacts with a Facebook ad, performs a Google search for the product, and then opens the company's newsletter before making a purchase. In this case, the same exact conversion would be reported differently in different tools. Facebook would receive conversion credit in Facebook Ads Manager, while Google Analytics would attribute the conversion to Google as the last paid channel.
+
+As the example above shows, third-party tools won't reveal the whole customer journey and appropriately credit each touchpoint. To fix broken tracking, a marketing team needs a custom data-driven marketing attribution model.
+
+Continue reading to learn how to build a custom attribution model, which approach, Shapley or Markov, to use, and how to automate attribution modeling with a custom attribution solution.
+
+Unlock the insights you need to make every marketing dollar count
+Improvado's custom marketing attribution solution is designed to help enterprises like yours uncover hidden opportunities, optimize marketing spend, and achieve higher revenue growth. Book a consultation with our specialists and discover the true impact of your marketing channels.
+
+Schedule your call today
+Three Steps to Create a Custom Marketing Attribution Model
+Why would someone need to build a custom marketing attribution model? It’s simple. By doing so, you can assign conversion credit where credit is due when it comes to the different marketing channels on your customer journey, which, in turn, helps you to:
+
+Better assess the performance of each channel and make data-driven decisions;
+Determine the most effective marketing channels for different customer segments and target users based on their lifetime value;
+Allocate resources and budget more efficiently, leading to cost savings and improved results;
+ Tailor your messaging and content, leading to more effective customer engagement and brand loyalty;
+Monitor and adjust your marketing strategies over time, leading to continuous improvement and sustained growth.
+To create a custom attribution model, you will need to complete the following three steps.
+
+Step #1. Collect data from all your data sources
+The process starts with aggregating data on all customer touchpoints with the brand, both converting and not, that occurred during the customer’s journey on your app, website, social media networks, and other platforms. 
+
+Capturing UTM tags
+Urchin tracking module tags, or simply UTM tags, are parameters appended in the URLs of marketing campaigns that don’t modify the destination of the URL but pass on information that can be captured by analytics tools. 
+
+For example, a URL from a Facebook campaign would look like this:
+
+https://www.example.com/?utm_source=facebook&utm_medium=social&utm_campaign=nameofyourcampaign
+
+This URL directs people to example.com. Everything after ‘?’ is not part of the web address but passes on parameters to identify information for the origin source of the traffic. These parameters fire when the above URL is loaded. 
+
+The parameters used to identify the sources of traffic are:
+
+utm_source which indicates the channel that brought the traffic, for example, Facebook or LinkedIn.
+utm_medium which shows the type of traffic, whether it’s a newsletter, CPC, or something else.
+utm_campaign which tells you the campaign that your URL is part of. 
+To derive additional information, you can also use parameters like utm_content and utm_term.
+
+Pro tip: You can automate campaign tracking with UTM macros, an automation tool that dynamically assigns proper URL parameters when a user clicks on an ad. UTM macros save marketers hours of work and minimize the likelihood of errors.
+
+Master UTM macros to streamline marketing campaign tracking and attribution
+Improve marketing attribution accuracy with our guide on advanced UTM practices. Click on the image to download. 
+If you don’t use UTM tags for your campaigns, the analytics tools will capture the URL of the referrer but will label it as organic instead of paid.
+
+Capturing user-level data
+The second thing to consider is user-level data, including in-app events, re-engagements, clicks, logs, etc. The ability to identify users comes from assigning a unique ID to each user, enabled by identity solutions.
+
+Analytics tools like Mixpanel or Heap give you the ability to identify device IDs and user IDs, as well as use the combination of these two dimensions to identify multiple devices for each user across multiple touchpoints.
+
+User-level data is vital for marketing attribution if you intend to use Google Analytics together with a customer relationship management (CRM) system. UTM tags are naturally problematic when used with CRMs. So, to properly track revenue from your CRM, you need to match every visitor to a ClientID through Google Analytics API.
+
+ID solutions allow you to have proper cross-channel and cross-device marketing attribution and track users in environments with strict cookie policies. You get valuable data about the channels that led them to your website or store, even without a UTM tag.
+
+Capturing conversion and revenue data
+To complete your marketing attribution model, you will also need to pull data on the conversions and the respective revenue that is likely found in your CRM. These data points will help you calculate each marketing channel's conversions, revenue, and ROI.
+
+A great help in pulling large volumes of data from a CRM is the extract, transform, load (ETL) solution. ETL automatically pulls all your data, applies transformations, for example, unifies disparate naming conventions, and loads the data into a data warehouse, BI or visualization tool, or another destination. 
+
+
+Step #2. Pull all your data together
+To create a custom attribution model, you need to import all the data we described above into one place, ideally a database or marketing data warehouse.
+
+An easy and efficient way to achieve this is by leveraging an ETL solution, which enables you to connect all your marketing data in minutes, saving massive amounts of time and developer resources. This is particularly beneficial for enterprise companies with complex marketing ecosystems and numerous data sources to manage.
+
+Once you have all the metrics and dimensions required for the attribution model imported into your database, you should consider a few factors for your model, as described in Step #3. 
+
+Step #3. Decide on an attribution window
+An attribution window, also called a conversion window or lookback window, is the time frame during which a conversion should be credited to a touchpoint that happened within that period.
+
+Let's say you launch a social ad campaign for your new product. A user seeing this ad may not show an immediate intent action—conversion due to timing, need for a partner's opinion, or general concerns.  After two weeks, the user comes across your video ad, looks through it, but still doesn’t purchase a product. But in seven more days, this same user goes directly to the website and completes a purchase. Not considering a conversion window, a company may attribute this conversion to the organic channel. And when the marketing team decides to optimize non-converting touchpoints, video ads will be abolished.  
+
+An attribution window is a time frame during which a conversion event is credited to a touchpoint that occurred within that period. 
+When deciding on an attribution window, take into account historical data and business considerations, like the purchase cycle for your products and the norms in your industry. For example, it takes much longer for a customer to decide on the purchase of a vacation package worth thousands of dollars than to decide on buying an inexpensive t-shirt. Meanwhile, decision-making in a B2B sector can take months and may involve 11 to 20 stakeholders. 
+
+Note: Advance attribution modeling solutions can acknowledge multiple users within one business account and follow them as a single unit, which is crucial for tracking of a B2B buying cycle, where the customer is a company and not a single role within it. Improvado marketing automation solution leverages an identity graph data structure that maps interactions from different stakeholders within a target organization, allowing marketers to better understand the collective decision-making process and more accurately attribute credit to marketing efforts that influence the buying journey of the entire organization. Tailor your marketing strategy to the unique dynamics of B2B sales cycles with Improvado.
+
+Analytics tools like Google Analytics help you decide on attribution windows. Google Analytics has a default 30-day conversion window, or as the company calls it a “lookback window”, for acquisition conversion events and a default 90-day window for other events. A user is free to set custom windows for as little as seven days.
+
+
+What Is the Best Marketing Attribution Model? 
+With numerous marketing attribution models available, one of the most widely shared concerns among marketing teams is how to find a model that best represents the nature of customer interactions with your business. 
+
+A data-driven attribution model, such as the Shapley value model or Markov chain model described later, is most commonly used by companies with a solid backlog of conversion data. Thus, newer businesses can’t really benefit from it. If you can’t build a custom attribution model, then you can work with any rule-based marketing attribution model to find the best angle to look at the data. 
+
+There are several types of rule-based attribution model:
+
+First-touch attribution
+Last-touch attribution
+Last non-direct attribution
+Time decay attribution
+Position-based attribution
+Linear attribution 
+We suggest trying different conversion optimization methods, using each attribution model to identify the one that gives you the greatest boost in sales. Make sure to run these tests with proper planning and involve skilled analysts if needed.
+
+Select a Data-Driven Attribution Model as a Foundation
+There are two widely accepted data-driven models for attribution: Shapley value model and Markov chain model. The inputs needed for both models are the touchpoints and conversions, which, as stated above, are part of the data that you will import into your database.
+
+
+Using the Shapley Value Attribution Model
+The Shapley value model, named after the Nobel Prize-winning economist Lloyd Shapley, is a game theory model for cooperative problems. In other words, it tries to assign conversion credit to different parties that contributed to a total value. This is also the question we’re trying to answer with a marketing attribution model—namely, how much credit each marketing channel should get for making a user convert along the conversion process.
+
+The Shapley value model is also the one used by Google for their own data-driven attribution model in Google Analytics 360. However, by creating a custom attribution model, you will have greater control over your data and will avoid the biases that Google Analytics might have, such as giving more credit to Google Search.
+
+The Shapley value attribution model fairly distributes credit among channels based on their cooperative contribution to conversions.
+In order to calculate the contribution of a channel under the Shapley value model, we compare all the different permutations of paths and touchpoints that occurred. For example, we take two paths that differ by a single touchpoint and assign the difference in total value to that extra touchpoint since it is the only difference between the two. Then we compute all the permutations and assign conversion credit to each channel accordingly. Thus, the model calculates the probability of conversion when a specific channel is present in the conversion path.
+
+Using the Markov Chain Attribution Model
+The Markov chain model, named after the mathematician Andrey Markov, describes the sequence of various events and tries to make predictions based on them. Once again, we try to assign the probability of a user converting when exposed to multiple marketing channels.
+
+The Markov chain model quantifies each channel's impact based on its position in the customer journey.
+The Markov chain model assigns credit to marketing channels by calculating the removal effect. The removal effect depicts what happens when we remove a marketing channel from a path and see how many conversions occur without that channel.
+
+By calculating all the different permutations of paths and the removal effects for every touchpoint, we end up with a probability of converting for each marketing channel.
+
+
+Shapley Value and Markov Chain vs. Rule-Based Attribution Models
+In both the Shapley and the Markov models, the output is a matrix of all marketing channels and a probability or credit for all conversions that occur thanks to each of those channels.
+
+Channel
+
+Last-click conversions
+
+Data-driven model conversions
+
+Paid search
+
+5
+
+3.7
+
+Social media
+
+3
+
+4.4
+
+Newsletter
+
+2
+
+1.9
+
+Total
+
+10
+
+10
+
+The above table is an example of the output of a custom attribution model compared to a last-click model. Note that the total number of conversions is the same for both models, but what changes is the allocation between the channels. Moreover, the custom attribution models can have fractional conversions, since credit for a conversion is given to multiple channels.
+
+You can also calculate the revenue and ROI for each of the channels since you have conversions, revenue and marketing cost in your database. This will help you allocate your marketing budget across channels.
+
+
+How to Run a “Lift Test”
+In the models and data mentioned above, we talked about capturing touchpoints via UTM tags. UTM tags occur through clicks, which means that there are channels (mainly social media) that will be underrepresented due to the lack of impressions as a parameter.
+
+This also has a similar impact on display advertising, where visitors mostly convert after viewing your display ads multiple times across different content networks.
+
+In order to incorporate impressions into your model, you should consider running lift tests for channels like Facebook and Instagram as they rely on impressions more than other channels. 
+
+ A lift test is a method used to measure the incremental impact of a specific marketing channel on conversion rates.
+A lift test is a randomized control test where you randomize an audience into a test and control group and only show ads to the test group. The difference in conversions between the two groups is known as lift or incrementality and represents the real impact of a channel’s ads on the audience. Since this is based on the concept of randomized control trials, it also incorporates the concept of causality, meaning that we know that it was the ads that caused the extra conversions.
+
+A good practice is to regularly run lift tests (for example, once a quarter) so that you can see the effect of Facebook, Instagram and other impression-heavy channels on the conversion journey and calibrate your attribution model accordingly.
+
+Note: In cases where you run ads and purchases happen on your website, Google allows you to track view-through conversions and push them into your data warehouse in aggregated format through Ads Data Hub. On the other hand, if you run an ad campaign but purchases occur on a marketplace (like Amazon), then marketing mix modeling is your go-to option for assessing your campaign’s efficacy.
+
+With and Without Lift Tests
+Both attribution models and lift tests are useful and should work in conjunction to give the best possible results. Here are some of the advantages and limitations of both tools. 
+
+Running Lift Test
+
+Attribution Model without Lift Tests
+
+Accurate results
+
+Approximation based on model
+
+One data point in time
+
+Can be used on a daily basis
+
+Holdout
+
+No holdout
+
+Based on results, not on arbitrary rules
+
+Rule-based unless you build a data-driven model
+
+Causality
+
+Correlation
+
+Baseline (organic, brand effect) is taken into account
+
+Gives little to no credit to organic
+
+Impressions are taken into account (but not segregated)
+
+Impressions hard to track (depends on channel)
+
+Not all channels have lift tests (imperfect alternatives like matched market test, before-after, etc. do exist)
+
+Models all digital channels. Offline is problematic 
+
+How to Incorporate Offline Activities into Your Marketing Attribution Model
+For offline activities like TV ads and billboards, it's recommended to run matched market tests, where you take two similar geographic areas and use them as a test and control group to measure the impact of particular marketing efforts.
+
+An alternative is to employ before-after tests, where you compare two periods of time with different marketing activities. 
+
+Something you must consider when running all sorts of tests is duration and seasonality. A rule of thumb is that tests should last for at least one week (ideally four weeks or more) since there might be fluctuations of conversions for different days (e.g., a lot more conversions on weekends compared to weekdays). You should avoid running tests on periods when you experience significant increases or decreases (e.g., Christmas, Black Friday).
+
+
+Setting up a Custom Attribution Model
+ When a company decides to build a custom attribution model, it ultimately has three options: 
+
+Build an attribution model in-house. A reliable attribution modeling solution covers the tracking, modeling, and analysis of data across all customer touchpoints and marketing channels. A project of this complexity takes months of work, enormous development and analytics resources, and continuous investment in tool maintenance and development. 
+Rely on tool-based analytics or a combination of attribution solutions. It takes a lot of jiggling and tweaking of data silos and the implementation of multiple tools to cover all of your data sources and custom attribution needs.
+Implement a comprehensive marketing attribution modeling tool. Such solutions provide a holistic view of all your marketing efforts by automatically aggregating data from all data sources, transforming it, and associating your leads and purchases with the right sources. 
+If you're opting for a third-party attribution modeling solution, take into account aspects like scalability, integration capabilities, data accuracy, reliability, ease of use and implementation, and customization to ensure it aligns with your needs and requirements. 
+
+Improvado's marketing attribution solution provides the infrastructure and support that large enterprises need to build and automate attribution modeling. It supports over 500 data sources, including Google Analytics, Mixpanel, Adobe Analytics, Facebook Ads, TikTok for Business, and more, enabling multi-touch attribution models across various marketing channels. Improvado also supports B2B features and can attribute the events of multiple stakeholders to one account. This gives you full visibility of the complex B2B customer journey and helps track associated costs. 
+
+Elevate your marketing efforts with an Improvado attribution modeling solution
+Enter work email
+Frequently Asked Questions 
+What is a custom attribution model?
+A custom marketing attribution model, unlike rule-based attribution models, is a tailored approach to measuring the effectiveness and impact of your marketing channels, taking into account the unique goals, scale, and complexity of your enterprise. This data-driven model goes beyond the limitations of rule-based models like first-touch, last-touch, or linear attribution by accurately attributing conversion credit to each customer touchpoint, reflecting the true contribution of each channel in the customer journey. By doing so, custom attribution models empower decision-makers to allocate budgets precisely, optimize campaigns, and identify the most valuable customer touchpoints, ultimately driving higher revenue growth and enhancing the ROI of your marketing efforts.
+
+How to build a custom attribution model?
+Building a custom marketing attribution model for a large enterprise involves several key steps aimed at providing a comprehensive and accurate representation of the impact of each marketing channel on your business performance. First, centralize all your marketing data, including multiple touchpoints, conversions, and customer journey information, by leveraging advanced ETL solutions like Improvado. Next, determine the specific attribution model framework that aligns with your business goals, taking into account factors such as sales cycles, customer behavior patterns, and industry norms. Utilize advanced analytics tools and techniques to process and analyze the data, developing custom credit rules that accurately reflect the contribution of each touchpoint in the conversion process. Finally, continually refine and adjust the custom attribution model based on the evolving marketing landscape, new data insights, and changing business objectives. It will ensure that your marketing efforts remain data-driven, optimized, and aligned with your enterprise's growth strategy.
+
+Which attribution model is most accurate?
+It's important to recognize that no single attribution model is universally perfect for every business. However, the most accurate marketing attribution model for your company would likely be a custom data-driven attribution model. Custom models adapt to your company's specific context, take into account the unique behavior patterns of your customers and the specific dynamics of your marketing channels, and can be fine-tuned to reflect your unique marketing strategies and goals. The accuracy of a data-driven model relies on the quality and quantity of your data. Therefore, it's crucial to invest in robust data collection and management practices to maximize the accuracy and effectiveness of your custom marketing attribution model. Book a consultation with an Improvado representative to get one step closer to backing your marketing decisions with a custom marketing attribution.
+
+
+Denis Khalturin
+Data Analyst at Improvado

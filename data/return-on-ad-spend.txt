@@ -1,0 +1,135 @@
+Return On Ad Spend (ROAS): Definition, Formula, Tactics
+
+NIKITA BYKADAROV
+JANUARY 27, 2023
+An astonishing 60% of digital marketing spend is wasted. Marketers overbid on campaigns, target the wrong audience, don't speak to the customers' pains—the list of what can go wrong goes on. The first step to identifying and eliminating advertising waste is measuring ad performance and cost-effectiveness. 
+
+Return on ad spend, or simply ROAS, is a metric that shows the amount of revenue generated off of every dollar spent on advertising. Many marketing departments use it as a benchmark to decide whether a campaign brings satisfactory financial results or not. 
+
+This article provides a well-rounded picture of ROAS: what the metric shows, how to calculate it, and, most importantly, improve it.
+
+
+Key Takeaways:
+Return on ad spend (ROAS) shows how much revenue every dollar spent on ads generates.
+To calculate ROAS, divide revenue attributed to ad spend by ad costs.
+What is considered to be a good ROAS depends on the industry and advertising channel. The average metric across all industries is 2.87.
+There's a number of factors that can improve ROAS, including refined keyword targeting, website performance, experiments with ad placement and ad copy.
+12 best marketing dashboard examples to boost your performance and ROI
+What is Return On Ad Spend (ROAS)?
+Return on ad spend (ROAS) is a marketing metric that tells you how much revenue your company generates for every dollar you spend on advertising. 
+
+
+How to Calculate ROAS?
+It's calculated using the following formula: 
+
+Revenue Attributed to Ad Spend / Advertising Costs.
+Let's say your performance team spends a $15,000 budget on Google Ads, which results in customers who spend around $35,000 on your website. Following the return on ad spend formula, your ROAS would be 2.33. 
+
+What to include in the ad cost?
+To get a better picture of your marketing results and if your ad revenue is paying off the advertising costs, it may be more beneficial to consider how much it truly costs to run an ad. In this case, in addition to the listing fees, your advertising costs will include the following:
+
+Salary costs: Personnel costs associated with managing an ad campaign, whether in-house or contracted.
+Vendor costs: Costs associated with the vendors that facilitate the ad campaign.
+Affiliate costs: These include affiliate commissions and affiliate network fees.
+Note: ROAS is not return on investment (ROI), which incorporates many other expenses on top of those you have laid out on ads alone. The difference between ROAS and ROI is discussed in more detail later on in this article.
+
+There are a few different ways to calculate ROAS, but you must ensure you track it regularly. A successful marketing strategy relies on making data-driven decisions. There is no guesswork involved—by understanding your ROAS, you can make sure your business is doing well in the long run.
+
+
+Why Return On Ad Spend Matters
+Tracking ROAS across campaigns and ad channels helps marketers to assess the effectiveness of their advertising efforts, make strategic decisions about resource allocation, and identify potential bottlenecks where a decrease in ad spending would be beneficial.
+
+Additionally, ROAS can be used to compare the performance of different ad campaigns or ad groups. Suppose you have two campaigns with different ROAS. In that case, you can determine which is more successful and adjust your budget accordingly. Based on this information, for future reference, you can also extrapolate what is effective for a particular audience and what is not.
+
+ROAS can also help you forecast your future ad spend. If you know your ROAS, you can estimate how much you need to spend on advertising to generate a certain amount of revenue. This is a valuable tool for planning your marketing budget and ensuring you get the most bang for your buck in the long term.
+
+
+What ROAS Is Considered Good?
+There's no definitive answer to this question since it depends on several factors, primarily your industry, business goals, advertising channel, and marketing budget. 
+
+A good rule of thumb is to aim for an ROAS of at least $4 or 4:1. This means that for every $1 you spend on advertising, you should generate at least $4 in revenue. However, studies have shown that the average ROAS across all industries is 2.87.
+
+Some businesses are able to generate an ROAS of 10:1 or even higher. This is usually possible if you have a high-value product or service, a well-defined target market, and an effective marketing strategy. If your ROAS is lower than the industry benchmark, it may indicate that you need to take a few steps back to reshape your approach.
+
+“One of the most common ROAS-related mistakes by ecommerce leaders is that they forget to segment prospecting from retargeting efforts. Retargeting ROAS will typically perform much better than prospecting ROAS” — Alex Cruz, Founder & CEO of PenPath, a leading business intelligence platform for enterprise and DTC brands.
+ROAS vs. ROI
+
+ROAS and ROI are two of the most commonly used metrics in digital marketing. They both measure the performance of a digital marketing campaign, but they do so in slightly different ways.
+
+Return on advertising spend calculates returns associated with a specific ad campaign. 
+Return on investment measures the profitability of the overall investment. Typically, it is expressed as a ratio in percentage terms and is calculated by dividing net investment income by total investment cost.
+An ROI analysis is a macro-view of how an ad campaign contributes to business profitability. ROAS, on the other hand, is a close-up look at the performance of an ad campaign. ROI and ROAS combined can give you a more comprehensive picture of the effectiveness and profitability of your ad campaigns.
+
+
+Tips on How to Improve Your ROAS
+As with any metric, ROAS can't be analyzed and consequently improved in a vacuum. First, you need to break down your ad campaign into its constituent parts: audience, conversion rate, messaging, copy, etc.   
+
+Then, see where you can improve to either:
+
+Increase the revenue generated from ads while running on the same budget;
+Lower the ad spend while continuing to generate the same amount of revenue;
+Or increase revenue while cutting the cost.  
+Additionally, consider the following strategies to improve ROAS.
+
+
+Refine your keyword targeting
+In paid search, you should use precise keywords in your ads to maximize their effectiveness and reach customers with high purchase intent.
+
+One way to do this is to use what are known as long-tail keywords. These are more specific phrases that are less commonly searched for but can still be relevant to your business. For example, instead of just using the keyword "car," you could use the long-tail keyword "vintage car." This will help you attract a more targeted audience and could lead to better conversions.
+
+Another way to refine your keyword targeting is to use negative keywords. These are the terms you want to exclude because they're irrelevant to your business. For example, if you sell dog food, you might add the negative keyword "cats" to your campaign to avoid attracting visitors looking for information on cats.
+
+By refining your keyword targeting, you can ensure that your content is more relevant and valuable to your audience, ultimately leading to better results for your business.
+
+Make your website responsive
+Providing your potential customers with the best possible buying experience is crucial. Hence, as more and more people shop online on their smartphones or other devices over and above desktops, you should pull out all the stops to make their buying journey seamless.
+
+There are many ways to optimize your website to improve its mobile-friendliness:
+
+Website load time: No one likes waiting, especially when it can be avoided. In a study, 70% of respondents admitted that a long load time impacts their willingness to continue online shopping. Consequently, if you speed up your website, your customers will appreciate it by purchasing from you rather than the competition.
+Reduce cart abandonment: It’s estimated that the average cart abandonment rate across all industries amounts to 69.99%. Take every measure to make the checkout experience as smooth as possible and target customers who have abandoned their carts in remarketing campaigns. According to the same study, the main reason for cart abandonment is the shipping costs, fees, and taxes, so you can exploit that by offering a free shipping option in your ads occasionally to boost your ROAS.
+Use available tools
+Take advantage of the tools offered by platforms such as Meta and Google. Both platforms are coming up with innovative ways to monetize the data they collect about users.
+
+Use lifetime value lookalikes on Facebook instead of targeting by interests or demographics—displaying ads to people similar to your best existing customers is much better than regular narrowing.
+For Google Ads, give Performance Max a chance. Test new solutions and methods because even if they fail, you'll lose just a little of your budget, but if they do work, you may gain an edge over competitors who are not as proactive in their efforts.
+Unlock 10x ROAS potential with our Marketing Data Centralization Guide
+DOWNLOAD
+The power of A/B testing
+Draw conclusions based on data. A/B testing is an often underestimated tool. Compare what headline, call to action, visual asset, or copy works best. Identifying what makes audiences most likely to convert can help you improve your ads.
+
+
+Low-hanging fruit
+Think of the low-hanging fruit. Instead of investing to always reach new audiences with ads, keep your existing traffic and audience in mind.
+
+Include these groups in your remarketing if you have SEO, referral, or direct traffic. If the size of these groups allows, segment them so you can more accurately target their needs based on the source of their acquisition:
+
+The product they were interested in; 
+The form of content they consumed (you should treat the user who visits a blog post differently than a user who visits sales pages).
+Use attribution of different sources and warm up existing traffic because warm traffic is more likely to be buying traffic.
+
+Data-driven approach
+The data will provide you with all the answers you need. Identify which product sold best through a given channel last year. Determine the times, locations, and days when you see the highest return on ad spend.   
+
+Make sense of the data by breaking it down into factors, identifying what matters, and drawing conclusions based on what you find. You will better understand who you are selling to, what you are selling, and why you are selling to them. This knowledge is invaluable in streamlining ad campaigns and improving ROAS.
+
+
+ROAS Can Be Tricky: Pitfalls When Relying on ROAS
+Marketers should also be aware of a few pitfalls associated with ROAS.
+
+First, ROAS can be a misleading metric. It can give the impression that a campaign is performing well when, in reality, it may be underperforming. The problem may lie in the misattribution of revenue to a different lead source. Check your marketing analytics and whether your UTM, pixel, and cookie tracking is on point.
+
+Second, ROAS can also lead to overspending. If a campaign is achieving a high ROAS, marketers may be tempted to increase their budget to achieve even higher returns. However, this can lead to ad waste if the campaign can't maintain its high ROAS.
+
+Finally, ROAS can also create pressure to deliver short-term results at the expense of long-term strategy. This can lead to costly decisions for the brand in the long run. For example, a specific campaign doesn't have a high conversion rate but still is a high-value touchpoint that triggers users to advance further through the customer journey. Judging by ROAS, the campaign is low-performing. But when looking at the campaign in the context of the whole customer journey, marketers see its impact on the bottom line.
+
+
+Final thoughts
+Marketers commonly use ROAS because it's easy to calculate, and it quickly gives a general idea of the advertising campaign's performance. Still, you should take it with a pinch of salt, as there are more telling metrics to be used in tandem with return on ad spend.
+
+Build a holistic picture of your revenue efforts with Improvado
+EXPLORE
+
+Nikita Bykadarov
+VP of Demand Generation
+Nikita Bykadarov is a VP of Demand Generation at Improvado. While working on different projects and marketing campaigns, Nikita is always happy to share his knowledge and thoughts on current trends in the marketing field.

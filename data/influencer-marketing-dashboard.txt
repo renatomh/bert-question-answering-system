@@ -1,0 +1,264 @@
+How to Build an Influencer Marketing Dashboard (+ 8 metrics to track)
+
+NIKITA BYKADAROV
+APRIL 2, 2023
+Influencer marketing is considered to be one of the most successful strategies today. One has only to compare ROI of influencer marketing with other forms of advertising. For example, a recent study showed that influencer campaigns have 11X the ROI of display ads. 
+
+However, influencer campaigns quickly form a tangled web of dull performance metrics that is hard to comprehend on your own. Large brands collaborate with hundreds of influencers across different platforms and regions, and often without a single source of truth for performance tracking.
+
+With metrics scattered across different spreadsheets and influencer hubs, it's difficult to determine whether your strategy is driving the desired results or not. An influencer marketing dashboard serves as a command center for all influencer-related activities providing a comprehensive view of your campaigns' performance.
+
+In this article, we'll explore how to build an influencer marketing dashboard, what metrics to track, and how to use gathered data to make better marketing decisions. If you're a marketing manager looking to optimize your influencer marketing strategy, keep reading to learn how an influencer marketing dashboard can help you measure the impact of your influencer campaigns and improve your overall marketing performance.
+
+If you want to save your team 35–40% of their time, and generate trustworthy influencer marketing reports, Improvado is a solution you’re looking for. Book a consultation with an Improvado expert to see what it can do for your agency.
+
+Who Should Use an Influencer Marketing Dashboard?
+Analyzing Influencer marketing performance by different channels
+Marketers use influencer marketing dashboards to measure the campaign performance across different platforms
+First, we need to determine the roles across the organization that can benefit from an influencer marketing dashboard. Normally, all revenue team members should check the influencer marketing dashboard once in a while if influencer marketing is the company’s primary demand generation channel. 
+
+Marketing Managers
+Marketing managers should be checking the influencer dashboard on a daily basis. They are responsible for the strategy, messaging, and values conveyed by influencers. Hence, dashboard metrics show whether their campaigns focus on the right audience and how effective their messaging is. Comparing performance with industry benchmarks allows to spot improvement opportunities and tweak campaigns accordingly. 
+
+Here’s our social media engagement rate forecast for 2023. Learn how your campaigns compare to platforms’ averages.
+
+
+Influencer Partnership Managers
+Influencer partnership managers are responsible for building and maintaining relationships with influencers. They can use an influencer dashboard to track the performance of each influencer, evaluate their impact on the company’s bottom line, and determine whether they are meeting their contractual obligations.
+
+Performance Marketers
+Unlike most influencer campaigns that focus on building brand awareness, influencer performance marketers prioritize client acquisition. 71% of marketers agree that the quality of customers and traffic from influencer marketing is better than other sources, like email or social media campaigns. Just like with regular display advertising, performance marketers provide influencers with trackers and creatives they place on their public pages and integrate into their content.
+
+The influencer marketing dashboard displays data captured by those trackers to help performance marketers identify individual influencers, creatives, and messages that generate more clients and result in lower customer acquisition costs.
+
+
+Sales Teams
+Sales and marketing alignment can bring invaluable benefits to businesses, and influencer marketing provides a targeted and affordable alternative to expensive advertising campaigns. For instance, 2 Degrees Food, a San Francisco-based food company, uses influencer marketing to leverage peer-to-peer and word of mouth advertising as part of their growth strategy, instead of investing in costly TV commercials.
+
+In case influencer marketing is your main source of acquisition, incorporating UTM tags or other trackers into your influencer marketing dashboard is crucial to let your salespeople know the prospects' intent.
+
+Let’s say, your company offers two different products and launches two separate influencer campaigns to promote them. Storing the name of your product in the ‘utm_campaign’ parameter provides your sales team with more context into the prospects’ intent and needs. In this way, salespeople can structure their presentation according to the product the prospect is interested in to target their pains more effectively.
+
+CMOs and Marketing Executives
+CMOs and other marketing executives can use an influencer dashboard to evaluate the impact of influencer marketing on revenue generation and understand how it compares to other marketing activities. 
+
+Keeping an eye on ROI, engagement, and brand awareness metrics allows them to determine whether their influencer marketing campaigns drive the desired results.
+
+
+Why Use an Influencer Marketing Dashboard?
+According to Influencer Marketing Hub, 67% of respondents intend to increase their influencer marketing spend in 2023. Given this trend, it's even more important for marketing teams to use an influencer marketing dashboard. Here are some of the key reasons why:
+
+
+Transparent and controllable visibility
+An influencer marketing dashboard provides real-time visibility into the performance of each influencer and the campaign. Marketing teams can track all essential metrics and ROI of campaigns to identify which influencers drive the most significant impact on their business goals. This helps teams optimize their influencer marketing strategy and achieve better results.
+
+Accountability
+With an influencer marketing dashboard companies can switch from quantitive to qualitative approach to influencer marketing. Instead of emphasizing the number of new and ongoing campaigns marketers arm themselves with required data to identify the most effective influencers, platforms, audiences, and more. 
+
+The dashboard also helps teams to hold influencers accountable for underdelivering the expected results that are often stated in the agreement. For example, if the influencer intentionally misinformed you about their average performance metrics and you didn’t get the projected number of impressions or clicks, you can easily spot the issue and negotiate for new campaigns to make up for what’s been stated in the agreement.
+
+
+Continuous growth
+Sometimes, campaigns don’t drive the expected results, and it’s not the influencers' fault. Ill-fitting messaging, mistakes during audience research, or poorly designed banners may also result in underperforming campaigns and low ROI.
+
+However, an influencer marketing dashboard can help you overcome these issues by showing which of your campaigns perform better. With detailed stats into all campaigns available from one place you can analyze the compound results of all your campaigns as well as dig deeper into each of them to better understand why they overdeliver or underperform.These insights offer significant opportunities to optimize your campaigns and messages delivered to your audience.
+
+Get an all-in-one dashboard from the Improvado team
+Share some details about your case and set a date to discuss it with an Improvado product expert. On a 30-min call, we’ll review your business objectives and data usage to see how Improvado can meet your needs.
+
+Schedule a call
+What Metrics To Include In Influencer Marketing Dashboard
+When building an influencer marketing dashboard, it's crucial to track the right metrics to evaluate the performance of your influencer marketing campaigns. Here are the top metrics to include in your influencer marketing dashboard:
+
+Reach
+Reach is the total number of unique people who have seen an influencer's content. It's an essential metric to track because it measures the size of the audience that an influencer can reach.
+
+How to calculate Reach manually:
+To calculate Reach manually, you need to use the formula:
+
+Reach = (Impressions / Frequency)
+Where Impressions are the total number of times an influencer's content has been displayed, and Frequency is the average number of times each person has seen the content. Or, if we put it in math formula, it looks like this:
+
+Frequency = Impressions / Unique Users
+Why Reach is important:
+Reach helps businesses evaluate the campaign’s potential impact. The higher the Reach, the more people an influencer can potentially reach and the greater the potential impact on brand awareness, traffic, and sales.
+
+
+Engagement rate
+Influencer marketing dashboard: engagement rate by video
+Top influencer videos by views and engagement
+Engagement rate is the percentage of likes, comments, shares, and other interactions that the influencer’s content generate. It measures how well the audience engages with the content. 
+
+How to calculate engagement manually
+To calculate engagement manually, you need to use the formula:
+
+Engagement = (Likes + Comments + Shares + Other Interactions) / Reach
+Likes, Comments, Shares, and Other Interactions are the total number of interactions an influencer's content has generated, and Reach is the number of unique people who have seen the content.
+
+Why Engagement Rate is important
+Engagement is an important metric to track because it measures how well the audience engages with an influencer's content. The higher the Engagement, the more likely the audience is to take action, such as visiting a website or purchasing.
+
+Usually, content with low engagement rate brings lower business results. Or, it can even signal that the influencer’s subscribers aren’t real people. Collaborating with such influencers may result in campaigns having high number of impressions but low conversion rates or not influencing the company’s bottom line.
+
+Click-Through Rate (CTR)
+CTR is the percentage of people clicking a link in an influencer's content. It measures how effectively an influencer's content drives traffic to your website, social media, etc.
+
+How to calculate CTR manually
+To calculate CTR manually, you need to use the formula:
+
+CTR = (Clicks / Impressions) x 100
+Clicks are the total number of clicks on the link in an influencer's content, and Impressions are the total number of times the content has been displayed.
+
+‍
+
+Why CTR is important
+CTR is an important metric to track because it measures how effective an influencer's content is at driving traffic to your target destination. The higher the CTR, the more effective the content is at driving traffic and generating leads. Besides, it also indicates that the message you’re conveying is resonating with viewers. Meaning, you can reuse the same approach in other campaigns to achieve higher results.
+
+
+Conversion Rate
+Conversion rate is the percentage of people who complete a desired action after clicking on a link in an influencer's content. It measures how effective an influencer's content is at generating leads and sales.
+
+How to calculate conversion rate manually
+To calculate the conversion rate manually, you need to use the formula:
+
+Conversion Rate = (Number of Conversions / Number of Clicks) x 100
+The number of Conversions is the total number of people who complete the desired action after clicking on the link, and the Number of Clicks is the total number of clicks on the link in an influencer's content.
+
+Why Conversion Rate is important
+Conversion rate is an important metric to track because it measures how effectively an influencer's content generates leads and sales. The higher the conversion rate, the more effective the content drives Revenue and ROI.
+
+Remember that it’s crucial to set the right goals for each of your campaigns. For example, Google Analytics calculates the compound conversion rate for all of your goals. However, if your campaign aims for brand awareness it makes more sense to track pageviews and average number of pages viewed per attracted user than count the number of purchases or call reservations.
+
+Return on Investment (ROI)
+ROI measures the financial return generated from an influencer marketing campaign. It calculates the Revenue generated from the campaign compared to the total campaign cost.
+
+How to calculate ROI manually
+To calculate ROI manually, you need to use the formula:
+
+ROI = (Total Revenue - Total Cost) / Total Cost x 100
+Total Revenue is the total Revenue generated from the campaign, and Total Cost is the total сost.
+
+Why ROI is important
+ROI is a critical metric to track because it helps businesses evaluate the financial impact of their influencer marketing campaigns. By tracking ROI, businesses can determine whether their campaigns generate a positive return and adjust their strategy accordingly.
+
+
+Cost Per Acquisition (CPA)
+CPA is the Cost of acquiring a new customer through an influencer marketing campaign. It measures the cost-effectiveness of the campaign in generating leads and sales.
+
+How to calculate CPA manually
+To calculate CPA manually, you need to use the formula:
+
+CPA = Total Cost / Number of Conversions
+Total Cost is the total cost of the campaign, and Number of Conversions is the total number of people who complete the desired action after clicking the link.
+
+Why CPA is important
+CPA is crucial to understand how cost-efficient your influencer campaigns are. By setting a CPA benchmark you can identify the campaigns that need optimization (actual CPA > benchmark CPA). Keeping your CPA as low as possible is vital to your budget and allows you make space for other campaigns and experiments to launch. Plus, the lower CPA you have the higher ROI of your marketing campaigns is.
+
+Brand Mentions
+Brand mentions are the number of times your brand gets mentioned in discussions on social media and other platforms. This metric helps you measure the recognizability of your brand and understand how prospects perceive your brand or product.
+
+How to calculate Brand Mentions
+To calculate brand mentions manually, you need to use social media listening tools that can track and measure the mentions of your brand on different platforms. By using these tools you can not only track the number of mentions, but also dive into different discussions and answer prospects’ questions to build more brand credibility. 
+
+Why Brand Mentions are important
+Attributing each brand mention to a particular influencer campaign is tricky (if not impossible), because you can’t exactly identify which influencer’s post or video triggered the discussion.
+
+Still, sudden spikes of mentions after campaign launches show that the content gave rise to different discussions, which are common after your audience finds out about the product from their content creator. Now, it’s on you to monitor the quality of these discussions. If a user comments on strengths of your product, don’t hesitate to respond with a thank you message. 
+
+On the other hand, if some users comment on any negative experiences they had with your product let them know that you’re working on improvements and invite them to give your product another try.
+
+As for brand mentions tracking, Improvado allows users to display all the comments from any social media platforms in a single, convenient dashboard. You can filter comments by subject or specific words to figure out the audience’s attitude to your brand and act accordingly.
+
+
+Total Revenue
+Total Revenue is the total revenue generated from an influencer marketing campaign. It measures the financial impact of the campaign on the business.
+
+How to calculate Total Revenue
+To calculate total revenue, you need to use your CRM system to track and measure the revenue generated from the influencer marketing campaign.
+
+Why Total Revenue is important
+Total Revenue metric is the backbone of marketing analytics. It allows you to measure the financial impact of each campaign on the business. Businesses make the majority of marketing decisions based on the generated revenue, so, this metric should never slip out of your attention.
+
+
+How to Build an Influencer Marketing Dashboard
+Influencer performance breakdown
+Measure the impact of each influencer on the company’s bottom line
+Now, when you have all the data you need to display on the dashboard, we’ll discuss the actual ways to display it. Since dashboard is a collective term for different means of displaying your data, there are several ways to build one. Let’s review three most tried and tested ways to gather your influencer metrics in one place:
+
+Use built-in dashboards provided by influencer marketing platforms
+Most influencer marketing platforms have built-in dashboards that allow users to track the performance of their campaigns. While these dashboards provide some level of insight, they are limited in their capabilities.
+
+Users can track the performance of their campaigns via platforms they use to find influencers. However, that quickly turns from a single source of truth to questioning “Where my metrics at?” if you use multiple platforms to collaborate with influencers. Platforms don’t integrate with each other, so you’ll have to jump around all of them to get a holistic view of your performance.
+
+And what’s more, you can’t see the entire impact of your cross-channel efforts. Let’s say, a prospect has landed on your website from an influencer campaign, but didn’t make a purchase. Then, they found your company’s social media account, went to your website again, and finally made the purchase. Built-in dashboards would say that the visit didn’t result in a conversion. But with a cross-channel view you can say for sure that this prospect has had their first touch with your brand via the influencer campaign and it resulted in a conversion.
+
+A built-in dashboard is a good option for starters that work with one or two influencers within the same platform. But, scaling becomes a nightmare in the long run, and you’ll most likely end up gathering all performance metrics manually when you’ll employ influencer directly or via another platform.
+
+
+Build a Spreadsheet-Based Dashboard
+Moving on, spreadsheet software is a viable option for those who need a quick way to gather influencer data in one place and visualize it. 
+
+To build such a dashboard, you can use tools Microsoft Excel or Google Sheets. You can create custom charts and graphs to visualize your data and use formulas to calculate metrics such as reach, engagement rate, CTR, and conversion rate.
+
+Spreadsheets are a cost-effective way to jumpstart your analytics without significant investment or engineering/analytics expertise. Simply copy data provided by influencers into a spreadsheet and create the required charts.
+
+The problem with spreadsheets is that you’re signing up for never-ending crunching of numbers, formulas, and metrics in this spreadsheet. The thing is, spreadsheets are all about manual operations. Manual data collection, cleaning, storing, organizing, etc. It’s not a big deal if you have only a few campaigns launched. But the things change when you’re dealing with hundreds of them. 
+
+By the time you fill up the spreadsheet, your data becomes obsolete. Don’t forget to count in the human factor. Even a single mistake can render your dashboard useless. So, you need to have some data verification process in place to be sure of its quality.
+
+Of course, some platforms provide API integrations that can connect directly to your spreadsheet and pour it with data automatically. However, you still need to get rid of duplicates and cleanse your data manually. Plus, APIs require technical expertise, knowledge of the documentation, and regular maintenance. 
+
+Wrapping up, spreadsheets are worth giving a try. If you’re tracking a couple of campaigns and don’t have loads of data to collect — go for spreadsheets. However, if you’re all about effective cross-channel marketing analytics and searching for a single source of truth for metrics across hundreds of campaigns, you should take a look at the next option.
+
+Automate your entire marketing analytics with Improvado
+Influencer dashboard development is a tricky and tiring task to handle. Oftentimes, teams invest too much time to build a single dashboard that doesn’t even show the whole picture of picture of marketing performance. But, it doesn’t have to be this way.
+
+A marketing analytics platform can help you automate your entire marketing reporting without spending your time or skills. For example, Improvado integrates with 500+ marketing and sales platforms to automatically pull the required data, transform it into a digestible form, and load into a ready-made dashboard. 
+
+With a platform like this you don’t have to dive in all the nitty gritty of the engineering behind dashboards and just start analyzing your marketing performance. What would take months to launch and even more to bring measurable results Improvado can do in just days. 
+
+Here are the general steps to get any marketing dashboard using Improvado:
+
+
+Connect Your Data Sources
+With Improvado you don’t have to take care of APIs or collect data manually. The platform has 500+ pre-built connections that you can turn on and off whenever you need. Simply choose the data source, turn the connection on, choose the metrics you want to see in your dashboard, and Improvado will do the rest for you.
+
+If your analytics needs go beyond Improvado’s library of data sources, their team will develop any custom connection you need in a matter of days (backed with SLA). So, whichever data or platform you might need — Improvado can get it for you, and get it fast.
+
+Transform Your Data
+Once Improvado has pulled your data from various sources, it transforms it to make it analysis-ready. Improvado unifies disparate naming conventions, eliminates duplicate data entries, maps data, and performs other data cleaning and transformation tasks to ensure your data is accurate and reliable.
+
+It’s a step that’s easy to overlook but hard to fight the consequences of ignoring it. If your numbers don’t match or you have a single duplicate metric in a whole set of metrics all your analytics efforts might go in vain. Only when your data is crystal clear you can put it on a dashboard.
+
+
+Push Data to Your BI or Visualization Tool
+Finally, the last step of the data journey. Improvado loads business-ready data to any visualization tool of your choice. Choose any tool you’re convenient with, including popular options like Tableau, Looker, or Google Data Studio. Improvado will push all the data into one of the many ready-made dashboard templates that you can modify in any way you need.
+
+Additionally, the Improvado team offers help with building custom dashboards and provides analytical guidance under its professional services offering.
+
+Having a single source of truth where all the metrics are up-to-date (being updated in an automated and timely fashion) is of paramount importance to all concerned, be they outsourced consultants or investors keeping their finger on the pulse of your shop’s performance. 
+
+With Improvado’s centralized dashboard, such tasks are to be resolved in few clicks Plus, there’s much more than meets the eye — book a 30-minute commitment-free call to find out how Improvado can help you make the most of your data! 
+
+FAQ
+What are good KPIs for influencer marketing?
+Good KPIs for influencer marketing include engagement rate, reach, impressions, clicks, conversions, and revenue generated. These metrics can help you measure the success of your influencer marketing campaigns and determine their impact on your overall marketing efforts.
+
+
+How do you track influencer marketing campaigns? 
+There are several ways to track influencer marketing campaigns. You can use social media listening tools to monitor brand mentions and track engagement on social media platforms. Additionally, you can use URL tracking to track clicks and conversions from influencer campaigns. An effective way to track influencer marketing campaigns is by using an influencer marketing dashboard that integrates data from all relevant sources and provides real-time insights.
+
+How do you track influencer marketing metrics? 
+You can track influencer marketing metrics using various tools and methods. Some tools include social media analytics tools, Google Analytics, and influencer marketing platforms that offer built-in dashboards. You can also manually track influencer marketing metrics using spreadsheets or other tools to aggregate data and calculate metrics such as engagement rate, reach, and conversion rate.
+
+
+How do you measure sales from influencer marketing? 
+Measuring sales from influencer marketing can be challenging, especially if your influencer campaigns are part of a broader marketing strategy. One effective way to measure sales from influencer marketing is by using multi-touch attribution models that consider all touchpoints in the customer journey. You can also track sales using URL tracking to see how many clicks and conversions were generated from influencer campaigns.
+
+What are influencer metrics? 
+Influencer metrics are measurements used to track the performance of influencer marketing campaigns. These metrics include engagement rate, reach, impressions, clicks, conversions, and revenue generated. By tracking these metrics, businesses can measure the success of their influencer marketing campaigns and optimize their strategy to drive better results.
+
+
+Nikita Bykadarov
+VP of Demand Generation
+Nikita Bykadarov is a VP of Demand Generation at Improvado. While working on different projects and marketing campaigns, Nikita is always happy to share his knowledge and thoughts on current trends in the marketing field.

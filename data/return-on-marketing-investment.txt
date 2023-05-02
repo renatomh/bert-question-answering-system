@@ -1,0 +1,136 @@
+Return on Marketing Investment (ROMI): Definition, Formula & More
+
+NIKITA BYKADAROV
+DECEMBER 29, 2022
+Evaluating the success of a marketing campaign is one of the most important things marketers need to do to determine whether their efforts are positively impacting the bottom line. 
+
+By focusing on a metric known as return on marketing investment (ROMI), you can develop a strong sense of what's generating new revenue and what isn't. Backed by this data, you can optimize your marketing activities to provide better returns for less money and decide on a budget allocation for higher efficiency. 
+
+In this post, we'll cover precisely what ROMI is, how you can calculate it, and show you how to improve it.
+
+
+Key Takeaways
+It can be challenging to assess your marketing efforts' effectiveness, making it hard for you to decide how you should approach marketing in the future. 
+ROMI can help you calculate the return on your marketing, partly helping you solve the issue of identifying the outcomes associated with your activities. 
+Measuring ROMI is difficult due to the omnichannel marketing landscape, issues with data collection, and problems with weighting touchpoints. 
+Tools like Improvado can help you overcome the challenges of measuring marketing ROI and ensure transparency across the customer journey. 
+If you want to improve your marketing ROI, you need to set goals, define core metrics, experiment with channels, implement analytics and track KPIs. 
+12 best marketing dashboard examples to boost your performance and ROMI [Explore]
+What Is Marketing ROI?
+Return on marketing investment (ROMI), also known as marketing ROI, is a metric used to determine how much revenue marketing efforts generate compared to how much was spent on it. It's usually calculated in regard to a specific marketing activity, channel, or the brand's overall marketing efforts. 
+
+ROMI is yet another tool to predict future cash flow, make better decisions on budget allocation, and compare the marketing efficiency of different sets of activities. 
+
+
+How Is ROMI Calculated?
+You'll need to know revenue and marketing expenses to calculate the return on marketing investment.
+
+You then need to put these figures into this formula:
+
+Return on Marketing Investment (ROMI) = (Revenue attributable to a specific activity - Marketing Expenses) ÷ (Marketing Expenses) × 100
+While the formula looks straightforward, it can be hard to decide what figures to use. For example, what is counted as marketing expenses for running a social media ad? Ad spend? Ad spend and the resources required to create the visual and copy? Should you consider the cost of the software used to create and distribute your ad?
+
+To get an accurate ROMI, you need to calculate the full cost of your marketing activity, including production costs, human resources, promotional cost, media spend, software cost, and anything else that comes with launching a certain activity. 
+
+While calculating returns, you also need to establish a sales baseline, since not all sales growth is a result of marketing efforts. It can also help you to get a realistic perspective on ROMI if your company doesn’t have clear revenue attribution modeling. 
+
+A sales baseline shows the organic sales growth—how much profit a company would generate without any marketing spend. Anything above the baseline can be attributed to marketing investments.   
+
+In a nutshell, the ROMI formula would look like:
+
+ROMI = (Sales Growth - Sales Baseline - Marketing Cost) / Marketing Cost  
+Another important thing to remember while calculating return on marketing investment is conversion lag. Not all marketing activities bring immediate returns. SEO, content marketing, organic social, and other long-term strategies take time to build up. When calculating ROMI, account for a lag between marketing spend and returns. Otherwise, you risk misinterpreting the results and cutting off strategies that might generate a long-term impact. 
+
+Lastly, conversions rarely happen on the spot, it's usually a result of multiple customer touchpoints. Since returns require multiple marketing activities, ROMI should be attributed across all touches along the customer journey. By attributing credit to the last touchpoint, you'll end up with a disproportionately high or low ROMI and, once again, cut off activities that contribute to triggering prospects to advance through the customer journey. 
+
+Choose the right attribution model for your marketing goals
+FREE GUIDE
+How Is Marketing ROI Used by Companies?
+Accurate and relevant ROMI calculations will ultimately answer two questions. Are your marketing investments paying off? And how do marketing activities affect revenue objectives? 
+
+This data can serve several purposes for a business: 
+
+Optimizing marketing efforts: ROMI will tell you which of your marketing activities are working and which aren’t. Knowing this, you can optimize your marketing budget to focus on activities that are affecting your bottom line. 
+Marketing budgeting: Since ROMI highlights which marketing efforts are bringing revenue, you can also use it to justify the budget and how you allocated your spend.
+Comparing marketing efforts against competitors: If you have ROMI data, you can benchmark it against industry standards and publicly available competitor data to quickly gauge your success and adjust efforts to maximize the impact of your activities.
+Projecting: Knowing what returns your activities and channels bring, you can use this data to make predictions for future similar initiatives and make strategic decisions on what efforts to implement.
+How High Should Your ROMI Be?
+A ROMI should be around a 5:1 ratio, and a fantastic ROMI would be near a 10:1 ratio. Anything above the 10:1 ratio is possible but can be expected on a regular basis. 
+
+A 2:1 ratio is considered the absolute minimum you can aim for. A 2:1 ROMI wouldn't be profitable for most businesses unless you have a high gross margin product. 
+
+This benchmark can vary depending on your cost structure, industry, and marketing activities.
+
+For example, the benchmarks for Google Ads tend to vary from the ones used for SEO. If you develop high-level competence in a certain marketing channel, your ROMI for that channel can hit exceptional levels and exceed industry standards. 
+
+So, if you focus on Google Ads, you might learn how to use all of the features on offer. You may then be able to target your ads with extreme precision, minimizing wasted ad spend. This will then lead to better results for less money, which improves ROMI. 
+
+It's also worth mentioning that B2B firms will face different benchmarks than B2C companies. This variation between B2B and B2C often comes down to the differences in marketing tactics each sector can use and the variation in business costs. 
+
+
+Are ROI, ROMI, and ROAS Different?
+Some resources use the terms ROI, ROMI, and ROAS interchangeably—even though they relate to different things. 
+
+ROI stands for return on investment, and it's calculated using the formula: 
+
+ROI = (Return - Investment ÷ Investment) × 100
+What counts as an investment in this formula can be broad. It doesn't have to include marketing, as you could calculate the ROI of my many different things or activities. 
+
+ROMI is a more specific figure than ROI, as it calculates the returns on investments in marketing.
+
+ROAS stands for return on ad spend, and it’s calculated using the formula:
+
+ROAS = Conversion Value / Cost of Ad Campaign
+ROAS shows how much money your advertising budget generates. 
+
+You can use ROAS if your marketing efforts are based on paid activities (such as advertising). If you also do non-paid activities, such as SEO or content marketing, your ROAS and ROMI figures might differ—meaning you can use both simultaneously.
+
+
+Challenges of Measuring ROMI and How to Overcome Them
+As discussed earlier, customers rarely take a linear path when making a purchase.
+
+Someone might click your Facebook ad, visit your website, sign up to your email list, receive a newsletter mentioning a sale, click on the link in the email, and check out your offering. They may do all this on a desktop and finally switch to their iPhone to purchase and pay with Apple Pay for convenience.
+
+If you're not tracking all of this correctly, it's going to look like the customer went straight to your website and bought a product. This can lead to an incorrect ROMI calculation, tainting future decisions based on this data. 
+
+This highlights the importance of having the right marketing and analytics stack to monitor your activities across all channels and links them to the revenue your brand generates. 
+
+Improvado, an advanced marketing solution, can help your marketing department easily track all your marketing efforts and channels, build dashboards, and generate reports on key metrics, like ROMI.
+
+The platform aggregates data from 300+ marketing and sales systems to track every customer touchpoint along the journey and match up the costs and revenue associated with each touch. The platform utilizes an identity graph to assign a unique user ID to each prospect and thus simplify their identification across channels and devices. In the case of a B2B funnel, the identity graph helps identify users associated with a single account. 
+
+The solution ensures transparency across the customer journey and that you feed your attribution model with valid data. Accurate customer, sales, and marketing data is the basis of a working ROMI model. 
+
+Once all of the relevant data is collected, harmonized, and attributed to the right channel, Improvado pushes it to the BI, visualization, or analytics tool of your choice for further analysis.
+
+Build a working ROMI model with Improvado
+BOOK A CONSULTATION
+Tips for Tracking and Improving Marketing ROI
+Now that you know what return on marketing investment is, how to calculate it against all odds, and what a good ROMI ratio is, let's look at some ways you can improve your marketing ROI. 
+
+Set your ROMI goals
+First, you need to set a goal––why do you want to calculate ROMI, and how does it correspond to your marketing objective? 
+
+Not all campaigns bring monetary returns or are initiated to bring immediate revenue. Imagine your company is entering a new market, and your marketing department launches brand awareness campaigns across multiple channels. These campaigns may show high user engagement and bring traffic to the website but result in a low number of purchases. 
+
+The campaigns' ROMI may be low, but they will make other acquisition campaigns easier in the future.
+
+
+Experiment with channels and campaigns
+One of the ways you can try to improve your ROMI is by experimenting with the campaigns and channels. Broadly speaking, you can try new marketing channels and see if they can help boost your ROMI of the overall marketing mix. You can also try campaigns and mediums you haven’t used before and see if that does the trick.
+
+Implement analytics and track KPIs
+A great way to tell if you're doing an excellent job of improving ROMI is by tracking KPIs and metrics.
+
+For example, if you want to track the email marketing channel, relevant metrics associated with this channel could include open rates, click-through rates, and deliverability.
+
+You need to collect various email marketing data, transform it, and load it to an email marketing dashboard that can automate analytics across the hundreds of email campaigns you're running.
+
+
+Bottom Line 
+Measuring return on marketing investment is an effective way to drive a data-driven marketing strategy and keep your marketing department aligned with your company revenue goals. But ROMI is only instrumental when calculated accurately. 
+
+
+Nikita Bykadarov
+VP of Demand Generation
+Nikita Bykadarov is a VP of Demand Generation at Improvado. While working on different projects and marketing campaigns, Nikita is always happy to share his knowledge and thoughts on current trends in the marketing field.

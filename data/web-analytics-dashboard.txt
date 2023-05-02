@@ -1,0 +1,127 @@
+How to Build a Web Analytics Dashboard & Which Metrics to Include
+
+NIKITA BYKADAROV
+FEBRUARY 22, 2023
+Have you considered just how valuable it would be to drastically improve your analytics reporting? What if, instead of wading through massive amounts of rows and columns, you had a visual representation of the most important metrics to send your stakeholders? 
+
+This can become a reality with an effective web analytics dashboard. 
+
+Businesses gather overwhelming troves of data every day. In fact, 2.5 quintillion bytes of data are created daily, which amounts to significant web activity. This means businesses must actively monitor said activity in real-time to make time-sensitive decisions based on that data. 
+
+A web analytics dashboard provides a truly centralized location for your marketing analytics. In this article, you’ll learn more about what they are, how to build one, and which metrics you should include.
+
+
+What Is a Web Analytics Dashboard?
+A web analytics dashboard showcases the most important performance metrics.
+Digital marketing professionals use web analytics dashboards to visualize the health of their websites. These dashboards are handy for tracking performance metrics as well. Many free tools are floating around which supply website owners with a wealth of data, including Google Analytics. 
+
+The problem with having an abundance of information, though, is that it’s often not easy to visualize. Presenting the information that matters most (i.e., actionable data) in a digestible format isn’t automatic. This causes issues within the organization. If your team is confused about which metrics to focus on and communication is stunted as a result, operations will lag behind.
+
+Imagine what would happen if you could quickly identify critical data points, display them in an easy-to-see way, and communicate that with your entire team.
+
+An analytics dashboard is a visual report showcasing your most important performance metrics, such as website traffic, conversion rate, bounce rate, and session duration.
+
+Uncover in-depth insights with customizable marketing dashboards
+BOOK A CONSULTATION
+Why Build a Web Analytics Dashboard?
+If you’re wondering why you should bother with a web analytics dashboard to monitor your KPIs, you’re not alone. Many marketing professionals feel similarly at first. However, a dashboard can be one of the most powerful analytics tools you employ to create actionable insights.
+
+As a digital marketer responsible for reporting website performance to executives and/or clients, an efficient-yet-effective method of sharing your data is a game-changer.  
+
+Enter: a web analytics dashboard. 
+
+There are several common reporting issues a quality dashboard can solve:
+
+Your everyday tools might not have reporting that’s easily accessible.
+It can be difficult to have all of your stakeholders log into a wide range of tools to gather information. 
+Those same tools can require a level of expertise to even be able to understand the results and data they provide.
+You may not have enough users provisioned for individual logins.
+It is often necessary to have a centralized location or hub for all the most critical data.
+Marketing efforts don’t always mesh well with your reporting efforts. This can become particularly evident when trying to send multiple stakeholders separate reports on the website, social media, advertising, email marketing, and more. 
+
+Instead, you can include all of that information in one centralized location. Stakeholders can access your real-time dashboard on their own terms as well, which makes for much less stress when it comes to communication at the end of the month. 
+
+Now we come to the best part—how to build your very own dashboard.
+
+
+5 Important Web Analytics Metrics to Include on Your Dashboard
+A great dashboard is more than the sum of its parts, and that’s because when all your website metrics are visible in one place, you can accurately understand the relationships between them. Building a great web analytics dashboard means assembling the most important metrics at your website and using them to create actionable insights. 
+
+Here are five web analytics metrics your dashboard should include:
+
+1. Number of Users
+This refers to the number of unique visitors your website receives in a given period. This is one of the most important metrics to include on a dashboard, especially when reporting to clients. It measures whether their website’s audience is rising, decreasing, or stagnant.
+
+However, be careful how you take this metric into account. An influx in unique visitors doesn’t necessarily equate to an increase in website audience. That’s because a user might visit the site this morning, leave, and come back again the next day, and it would show up as a new unique visit on both days.
+
+It all depends on whether or not you set up cross-device tracking.
+
+Though it’s not an end-all-be-all metric, it’s very useful to see how many people are visiting the site.
+
+
+2. Number of Sessions
+Measuring the number of sessions means tracking a group of user interactions with a site that happen within a certain period. An individual session might have many page views, social interactions, events, and purchases. Think of sessions as the accumulation of actions your visitors take while on your website. 
+
+A single user can have multiple sessions. They can all occur on one day, or over several weeks or months. When one session expires, it frees up another to start. 
+
+Sessions can expire in two different ways:
+
+Time: Sessions typically expire at midnight based on your time zone setting, or after 30 minutes of inactivity. You can adjust that as is relevant to your industry or audience. 
+Campaigns: If a visitor lands on a website through a certain campaign, exits, and then enters again via a different route, that’s known as a campaign change. 
+By using this metric, you’ll be able to identify the customer journey all the way to conversion. If you’ve been curious about what events your users carried out while on your site—and which pages they spend the most time on—this metric will be valuable to include. 
+
+3. Goal Conversions
+Goal conversions is a metric commonly overlooked, but can be one of the most valuable in your arsenal. This metric allows you to decipher which actions on your website align with your primary objectives. Selecting certain actions or interactions as goals, such as clicking a call-to-action button or filling out a contact form, can profoundly refine your targets. 
+
+As marketing professionals already know, accurately defining your goals is a crucial part of any good digital marketing strategy. If you properly define your objectives, it allows your dashboard to offer more valuable data. Those data options can include conversion rates, and the conversions your specific campaigns are achieving. 
+
+To help your marketing team assess the effectiveness of your existing strategies, add goal conversions to your dashboard. 
+
+
+4. Goal Value
+In similar fashion to the aforementioned metric, goal value is the amount you assign to an individual conversion. Each revenue-driven goal has a dollar amount attached, which is recorded each time a user completes such a goal. This lets you track the return on your digital marketing investments. 
+
+Many people make the mistake of assuming this is a metric attached to eCommerce merchants, but that’s not the case. Any goal you create can have value. When people talk about setting measurable goals, this is one way to ensure success in that endeavor.
+
+Figure out the value you put behind each conversion. This will allow you to clearly quantify the return on your marketing investment. If this is the basis for evaluating campaigns as a whole, then you should employ the same logic within each step of the process.
+
+Interested in further upping your marketing game? Check out our downloadable guide on advanced UTM practices. 
+5. Conversion Rate
+Any website owner is likely familiar with their conversion rate. It’s one of the metrics many people attempt to measure but struggle to quantify. If conversion rates have been an issue, a good way to accurately visualize conversion rates is to place them on your web analytics dashboard alongside other metrics to see the entire picture. 
+
+Your conversion rate is the percentage of visitors that convert on an individual page. It’s a critical KPI as it immediately informs you if people are responding to and engaging with your offering. 
+
+Analyzing conversion rates of specific landing pages is essential in knowing which strategies are the most productive in converting visitors into paying customers. The insights on your dashboard communicate the conversion rate of particular pages; if one is high, you can check out which kinds of design, copy, and offerings are performing well. It can be extremely helpful in narrowing down your target audience personas, too. 
+
+If you find an underperforming page, take a closer look and decide how to get it on par with stronger pages. Testing which elements of a landing page improve conversions is a productive way to yield a return on marketing dollars. 
+
+Conversion rates alone can be difficult to quantify, which is why basing them on goals or traffic sources is helpful. When users finish a goal, the percentage is the conversion rate of that particular goal. 
+
+To explain further, if you have a conversion goal for visitors to click a call-to-action button, then the percentage of visitors who do so on a particular page will be the conversion rate of that specific goal on that particular landing page. 
+
+
+How to Build a Web Analytics Dashboard in Improvado
+Building a web analytics dashboard can be an entirely custom endeavor. You can use Google Analytics to create a dashboard from scratch if you already know which metrics you want to track, how you want to arrange them, and other specifics. 
+
+However, the vast majority of organizations can benefit from having more guidance and deeper insights. Improvado is an advanced marketing solution created to do exactly that. It features an ETL product, which means it can:
+
+Automatically pull data from multiple sources,
+Transform data,
+Unify disparate naming conventions,
+Eliminate duplicate data entries,
+Accurately map data,
+Push analysis-ready data to any BI, analysis, or data visualization tool (including Google Analytics, Facebook Ads, Google Ads, Shopify, and more). 
+If you want to automate your entire marketing reporting, save your team time, bypass vendor locks, and gain access to trustworthy reports, use Improvado to construct your web analytics dashboard.
+
+
+Learn More About Marketing Insights with Improvado
+Improvado is an industry leader in marketing analytics automation. Providing valuable, actionable insights to create a single source of truth for companies is our specialty. That’s why we created a guide to diving deeper into your data, going beyond ordinary metrics.
+
+Leaders—whether in business or any other field—can only make good decisions based on data they both see and understand. Spotting trends, making timely pivots, and planning for the future hinges on having the right information at hand.    
+
+Build a highly customizable Web Analytics dashboard with Improvado
+Enter work email
+
+Nikita Bykadarov
+VP of Demand Generation
+Nikita Bykadarov is a VP of Demand Generation at Improvado. While working on different projects and marketing campaigns, Nikita is always happy to share his knowledge and thoughts on current trends in the marketing field.

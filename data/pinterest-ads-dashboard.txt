@@ -1,0 +1,137 @@
+Pinterest Ads Dashboard Overview & Metrics to Include
+
+NIKITA BYKADAROV
+MARCH 30, 2023
+With so many social media platforms for marketers to choose from in 2023, it can be easy to feel overwhelmed. Should you have an advertising strategy for LinkedIn? Is TikTok strictly for brands targeting Gen Z, or has it gone mainstream? Is Twitter still relevant in the wake of all the recent company changes? 
+
+One platform many businesses have overlooked in recent years is Pinterest, a visually engaging platform bursting with potential. Pinterest has over 450 million monthly active users, and 45% of its US user base has a household income of over $100K. Shopping and link-clicking are common occurrences on the platform, and many people use the app specifically to get inspiration for purchases. 
+
+If your brand decides to take the leap and advertise on Pinterest, you’ll need a Pinterest ads dashboard. When it comes to paid advertising, knowing how your campaigns are performing can help you optimize them for lower CPA and tweak messaging to attract more leads. This article offers an overview of Pinterest analytics and explains how you can visualize your Pinterest metrics in a cohesive and easily digestible way.
+
+
+What Are Pinterest Ads?
+Pinterest Ads dashboard : Pinterest user demographics
+Like many other social media platforms, Pinterest allows you to run paid ad campaigns. Since Pinterest is entirely visual, the ads are, too. That might mean custom infographics, digital designs, photography, or videos. Whatever your chosen visual medium, Pinterest ads can place your product or service in front of new audiences. 
+
+Marketing on Pinterest is different from most social platforms. Unlike Instagram, Twitter, Facebook, or TikTok, it’s much less focused on “social” interactions and more concentrated on the user experience. People use Pinterest to get inspired for a new project, to shop for their next purchase, and to curate and save content for personal consumption later. 
+
+This might be a significant advantage for your brand. Research into Pinterest’s general audience insights shows that 83% of weekly users made a purchase based on the content they saw from brands on the platform. What should you take away from that? Well, Pinterest users aren’t always passive scrollers (as is more common on other social media apps). Most of the time, they seek inspiration from people and brands. 
+
+Accelerate Pinterest analytics with Improvado’s dashboard
+BOOK A CALL
+The Basics of Pinterest Ads Analytics
+Paid advertising on Pinterest can be a great way to get your brand in front of more people. People often use search engines for online queries, but they’re also on social media for long periods. 59% of the world uses social media for an average of two and a half hours daily. Getting your ads on their feeds during that time can be incredibly valuable.  
+
+Because the intention behind Pinterest differs from other platforms, there is some specific terminology to be aware of. 
+
+Pin: A pin is a visual post on Pinterest. Usually, it’s an image, graphic, or video. You can think of pins like actual visuals you’d pin to a virtual corkboard, but more organized. 
+Repins: When someone repins your pin, they’ve saved it to their own board(s). On other platforms, repins are often called “ saves.” 
+Outbound clicks: Your ads will be pins with outbound links attached (probably your CTA). Outbound clicks are when users click into your pin and then through to your link.
+Pin clicks: Pins are displayed on Pinterest users’ feeds in a grid formation. To get a closer look, users can click on the pin itself. When they do, it’s counted as a pin click.
+‍
+Like any successful social media advertising campaign, you must keep tabs on how your ads perform. If done right, measuring social media data can significantly expand your business. 
+
+Typically, marketers that run Pinterest campaigns use Pinterest’s in-app analytics. It’s a viable option if Pinterest is your primary advertising platform. Internal analytics shows you all the crucial metrics across all your pinterest campaigns. And, while this analytics solution grants a fairly deep level of visibility into Pinterest campaigns, it doesn’t show you how your Pinterest campaigns impact your overall cross-channel marketing efforts.
+
+A limited scope of Pinterest-specific metrics is usually insufficient to gain a comprehensive understanding of the global marketing performance. Plus, built-in Pinterest dashboard isn’t compatible with a other platforms’ analytics tools, making it difficult to compare data across channels. 
+
+Given that the Pinterest in-app analytics doesn’t provide the flexibility to create customized reports tailored to your marketing objectives, this solution lags far behind custom dashboards for cross-channel analysis.
+
+Of course, there are always marketers’ favorite spreadsheets. However, they quickly get complex and challenging to assemble and read when you start populating them with performance data from multiple platforms. 
+
+So, what’s the most efficient solution to track Pinterest campaign performance and, at the same time, understand how they synergize with the rest of your marketing efforts? Enter the Pinterest ads dashboard. 
+
+
+The Benefits of a Pinterest Ads Dashboard
+Improvado’s Pinterest Ads dashboard example
+A Pinterest ads dashboard is a marketing analytics tool that visually displays your Pinterest insights. Many people use marketing dashboards across multiple channels and platforms to visualize their KPIs and other crucial metrics. These dashboards provide an overview of everything you need to see about your paid advertising efforts in an easily digestible format. 
+
+You can select any metrics you’d like to track and use visual graphs, charts, and more to display them. 
+
+What’s even more important is that such a dashboard facilitates marketing performance tracking across different platforms and acts a single source of truth for all your cross-channel marketing efforts. There are several benefits to consider when building a dashboard, but here are the top three.
+
+1. Enables Productivity 
+The key to running a successful marketing team is generating more productivity without increasing workload; dashboards can do just that. 
+
+A Pinterest ads dashboard automates data collection, transforms raw performance metrics into insights, and visualizes your insights to make them easily understandable for everyone. This takes a heavy weight off your team’s shoulders, allowing marketers to spend more time experimenting with new campaigns and analyzing insights instead of crunching numbers in spreadsheets.
+
+
+2. Provides Greater Transparency
+Analytics dashboards create a central hub of information that anyone can use to guide their decisions and evaluate the marketing’s team performance. This makes it easier for different departments to stay on the same page and makes the marketing team more accountable for the ad spend and campaign performance. 
+
+3. Standardizes Metrics
+By aggregating data from various platforms, a custom dashboard can standardize metrics, enabling easy comparison of performance across channels. When gathering metrics manually, marketers have to remove duplicate data entries, verify that metrics’ naming conventions match each other, join disparate data tables, and more. 
+
+An automated Pinterest Ads dashboard takes care of these tasks. By aggregating marketing data from Pinterest and other marketing platforms of your choice, you get a holistic view of your marketing efforts. Conversions that happened outside of Pinterest won’t slip away from your analytics and you can easily attribute each marketing dollar spent to a conversion, acquired traffic, or purchases. 
+
+
+4. Fuels Decision-Making
+Concrete data fuels successful strategies. Data collection and analysis is often a business bottleneck, but marketing dashboards simplify it. Custom Pinterest dashboards are designed to include advanced analytical tools, such as attribution modeling, forecasting, and trend analysis, which provide deeper insights into marketing performance. You can use your insights from your Pinterest ads dashboard to improve campaigns and strategies. 
+
+Get Improvado’s Pinterest Ads dashboard
+Share some details about your case and set a date to discuss it with an Improvado product expert. On a 30-min call, we’ll discuss your business objectives and data usage and see how Improvado can help you reach your analytics goals.
+
+Schedule a call
+7 Metrics to Track in a Pinterest Ads Dashboard
+Your dashboard won’t be helpful to your team without the proper metrics. Take time to identify your KPIs for specific campaigns and decide which to include in your dashboard. Here are a few to get you started.
+
+1. Impressions
+Tracking your impressions on Pinterest is important, as it tells you how many people have viewed your ads. At its core, impressions are a vital metric that says a lot about your campaign health. 
+
+For example, if an ad is generating a high number of impressions but not converting well, you may need to reassess your targeting or creative strategy. Conversely, if an ad is generating fewer impressions but converting well, you might consider increasing its budget to reach a larger audience.
+
+Besides, impressions serve as a basis for calculating other important engagement metrics such as click-through rate (CTR), engagement rate, and cost per impression (CPI). By measuring these metrics, you can gain insights into how well your audience is interacting with your ads, helping you optimize your campaigns for better results.
+
+
+2. Click-Through Rate (CTR)
+Your CTR lets you know how many users click on your pins and then click through to your outbound links. A higher CTR indicates that your ad is resonating well with your target audience, encouraging them to take action. Monitoring CTR helps you gauge the effectiveness of your ad creatives, headlines, and CTAs.This is vital information for tracking the conversion path.
+
+Additionally, platforms like Pinterest use ad performance metrics, including CTR, to determine the quality of your ads. A higher CTR may lead to a higher quality score, which in turn can result in better ad placements and lower costs.
+
+3. Cost-Per-Click (CPC)
+Paid advertising can be pricey, so keeping tabs on your ads' costs is essential. Your CPC will tell you how much each click costs you. When compared to the other metrics on the dashboard, the CPC can help you decide the value of that price.
+
+And, what’s more, monitoring CPC allows you to calculate your return on ad spend by comparing the revenue generated from conversions to the cost of acquiring those clicks. This information is crucial for determining the overall profitability of your ad campaigns and making data-driven decisions to optimize your marketing strategy.
+
+Also, Tracking CPC helps you assess your campaign performance in relation to your competitors. By monitoring industry benchmarks and comparing your CPC to industry averages, you can determine if your ads are performing well within your niche and identify areas for improvement. Pinterest’s CPC averages $0.5 - $1.5 per click, so keep this in mind when measuring your CPC.
+
+
+4. Cost-Per-Mile (CPM)
+Similarly, your CPM tells you how much 1,000 impressions costs. This metric can help provide a big-picture view of the ROI of your campaign. CPM is directly related to your bidding strategy. By tracking CPM, you can identify if your bid is too high or too low, allowing you to adjust your bids to find the optimal balance between cost and visibility.
+
+Average CPM on Pinterest lies in the range of $2 - $5 per thousand impressions. 
+
+5. Ad Spend
+Ad Spend tells you how much you’re spending on your paid advertising overall. Regularly tracking ad spend allows you to detect any sudden spikes in costs or anomalies in your campaigns. Identifying these issues early on enables you to make adjustments to prevent overspending and maintain control over your advertising budget.
+
+Also, by monitoring ad spend over time, you can identify seasonal trends or shifts in your target audience's behavior. This information can help you adjust your campaigns accordingly to capitalize on these trends and improve your campaign performance.
+
+
+6. Engagement Rate
+This metric is crucial to understanding the success of your campaigns. It can include data such as repins, comments, likes, and more. 
+
+Ads with high engagement rates are more likely to be saved or shared by users, increasing the potential for virality and extending the reach of your campaigns organically. Tracking engagement rate can help you identify ads with high viral potential and optimize your campaigns to maximize organic reach.
+
+Besides, you can tweak you content strategy for ad campaigns depending on the type of content that performs best (video, photos, images with texts, etc.).
+
+7. Conversion Rate
+Tracking conversions is a critical part of any marketing campaign, and it isn’t any different on Pinterest. Your conversion rate tells you how many ad views convert into customers. 
+
+
+Drive Higher ROAS with an Improvado-Built Pinterest Ads Dashboard 
+As it comes clear, there are multiple ways to track Pinterest Ads performance, and all of them have their upsides and downsides. Creating a custom cross-channel dashboard including Pinterest analytics data is the best way to keep track of your marketing performance, enable internal and cross-departmental collaboartion, and automate the analytics process. That’s where a marketing analytics platform can help. 
+
+Improvado automatically pulls in data from 500+ marketing and sales data sources (including a Pinterest integration), turns your performance data into simple and digestible view, and streamlines it to a dashboard of your choice. 
+
+Improvado also offers dashboard templates for different use cases and marketing objectives. From paid ads analytics to full-scale marketing attribution, you can set up any type of tracking in a matter of days, without needing any specific knowledge of data visualization or engineering.
+
+Plus, their team can help you with any advanced data visualization requests or complex database queries with its Professional Service offering.
+
+Learn how Improvado can drive better results from your campaigns by booking a consultation today.
+
+Jumpstart your Piterest Ads reporting today with Improvado
+BOOK A CALL
+
+Nikita Bykadarov
+VP of Demand Generation
+Nikita Bykadarov is a VP of Demand Generation at Improvado. While working on different projects and marketing campaigns, Nikita is always happy to share his knowledge and thoughts on current trends in the marketing field.
